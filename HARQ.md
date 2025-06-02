@@ -5,7 +5,7 @@
 | # | Statement | 1 | 2 | 3 | 4 | 5 | 6 | 7 |
 |---|-----------|:-:|:-:|:-:|:-:|:-:|:-:|:-:|
 | 1 | I got along with the character pretty well. | ☐ | ☐ | ☐ | ☐ | ☐ | ☐ | ☐ |
-| 2 | I did **not** want to get along with the character. | ☐ | ☐ | ☐ | ☐ | ☐ | ☐ | ☐ |
+| 2 | I did not want to get along with the character. | ☐ | ☐ | ☐ | ☐ | ☐ | ☐ | ☐ |
 | 3 | I was paying attention to the way the character responded to me and I was adapting my own behaviour to it. | ☐ | ☐ | ☐ | ☐ | ☐ | ☐ | ☐ |
 | 4 | I felt that the character was paying attention to my mood. | ☐ | ☐ | ☐ | ☐ | ☐ | ☐ | ☐ |
 | 5 | The interaction with the character was smooth, natural, and relaxed. | ☐ | ☐ | ☐ | ☐ | ☐ | ☐ | ☐ |
