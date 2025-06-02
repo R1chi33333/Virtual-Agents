@@ -20,7 +20,7 @@ Identity continuity is manipulated between subjects.
 ---
 
 ## Research Question  
-> Does keeping the **same identity** across visually different agents improve users’ **rapport**, **connectedness**, and **perceived trustworthiness** in VR?
+> Does keeping the **same identity** across visually different agents improve users’ **rapport**, **connectedness**, and ** credibility** in VR?
 
 ---
 
