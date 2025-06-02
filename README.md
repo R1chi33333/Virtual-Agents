@@ -100,22 +100,22 @@ Identity continuity is manipulated between subjects.
 
 ## Study Flow — Two Experimental Conditions
 
-### Condition 1 : Identity Discontinuous
+### Condition 1 – Identity Discontinuous
 ```mermaid
 flowchart TD
-    A[Briefing and Consent\n(assign to Discontinuous group)]
-    S1[Scene 1:\nEscape Room\nEmbodied • Agent A]
+    A[Briefing / Consent\nDiscontinuous group]
+    S1[Scene 1\nEscape Room\nAgent A]
     R1[Rapport Survey #1]
-    S2[Scene 2:\nThe World Beyond\nAnimal • Agent B]
+    S2[Scene 2\nWorld Beyond\nAgent B]
     R2[Rapport Survey #2]
-    S3[Scene 3:\nPhanto\nObject • Agent C]
+    S3[Scene 3\nPhanto\nAgent C]
     R3[Rapport Survey #3]
-    S4[Scene 4:\nWhisperer\nVoice-only • Agent D]
+    S4[Scene 4\nWhisperer\nAgent D]
     R4[Rapport Survey #4]
-    P[Post-block:\nIOS Connectedness\nManipulation-check\nTrust Interview]
-    D[Debrief and Thanks]
-
+    P[Post block\nConnectedness (IOS)\n+ Trust Interview]
+    D[Debrief]
     A --> S1 --> R1 --> S2 --> R2 --> S3 --> R3 --> S4 --> R4 --> P --> D
+
 
 
 
