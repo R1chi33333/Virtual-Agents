@@ -103,18 +103,19 @@ Identity continuity is manipulated between subjects.
 ### Condition 1 – Identity Discontinuous
 ```mermaid
 flowchart TD
-    A[Briefing / Consent\nDiscontinuous group]
-    S1[Scene 1\nEscape Room\nAgent A]
-    R1[Rapport Survey #1]
-    S2[Scene 2\nWorld Beyond\nAgent B]
-    R2[Rapport Survey #2]
-    S3[Scene 3\nPhanto\nAgent C]
-    R3[Rapport Survey #3]
-    S4[Scene 4\nWhisperer\nAgent D]
-    R4[Rapport Survey #4]
-    P[Post block\nConnectedness (IOS)\n+ Trust Interview]
-    D[Debrief]
+    A["Briefing / Consent<br/>Discontinuous group"]
+    S1["Scene 1<br/>Escape Room<br/>Agent A"]
+    R1["Rapport Survey #1"]
+    S2["Scene 2<br/>World Beyond<br/>Agent B"]
+    R2["Rapport Survey #2"]
+    S3["Scene 3<br/>Phanto<br/>Agent C"]
+    R3["Rapport Survey #3"]
+    S4["Scene 4<br/>Whisperer<br/>Agent D"]
+    R4["Rapport Survey #4"]
+    P["Post block<br/>Connectedness (IOS)<br/>Trust Interview"]
+    D["Debrief"]
     A --> S1 --> R1 --> S2 --> R2 --> S3 --> R3 --> S4 --> R4 --> P --> D
+
 
 
 
