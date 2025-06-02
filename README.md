@@ -116,7 +116,7 @@ flowchart TD
     D["Debrief"]
     A --> S1 --> R1 --> S2 --> R2 --> S3 --> R3 --> S4 --> R4 --> P --> D
 
-
+```
 
 
 ### Condition 2 – Identity Continuous
