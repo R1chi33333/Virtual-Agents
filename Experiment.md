@@ -41,7 +41,7 @@ Identity continuity is manipulated between subjects.
 | **Rapport** | Quantitative | HARQ (7-point Likert) | **Immediately after each scene** (4 times) |
 | **Connectedness / Closeness** | Quantitative | IOS (Inclusion of Other in Self) *or* RISC scale (7-point Likert) | **Immediately after each scene** (4 times) |
 | **Credibility** | **Qualitative only** | Semi-structured exit interview (audio-recorded) | **Once, after all four scenes** |
-| **Manipulation Check** | Single Likert item—“Were the assistants the same individual?” | 7-point Likert | After final scene |
+| **Manipulation Check** | Single Likert item—“Were the agents the same individual?” | 7-point Likert | After final scene |
 
 ---
 
