@@ -71,7 +71,7 @@ Identity continuity is manipulated between subjects.
   - *Continuous* group: same name, same voice, same keyfeatures.  
   - *Discontinuous* group: unique names, voices, colors (A/B/C/D) per demo.  
 - **Questionnaires:**  
-  - **Rapport Scale**  
+  - **Rapport Scale**  HARQ (7-point Likert)
   - **Connectedness:** 
   - **Manipulation-check:** “These assistants felt like the same person” (1–7 Likert)
 
