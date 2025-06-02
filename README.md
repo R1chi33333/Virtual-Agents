@@ -105,14 +105,14 @@ Identity continuity is manipulated between subjects.
 flowchart TD
     A["Briefing / Consent<br/>Discontinuous group"]
     S1["Scene 1<br/>Escape Room<br/>Agent A"]
-    R1["Rapport Survey #1"]
+    R1["Rapport Survey #1<br/>Connectedness Survey"]
     S2["Scene 2<br/>World Beyond<br/>Agent B"]
-    R2["Rapport Survey #2"]
+    R2["Rapport Survey #2<br/>Connectedness Survey"]
     S3["Scene 3<br/>Phanto<br/>Agent C"]
-    R3["Rapport Survey #3"]
+    R3["Rapport Survey #3<br/>Connectedness Survey"]
     S4["Scene 4<br/>Whisperer<br/>Agent D"]
-    R4["Rapport Survey #4"]
-    P["Connectedness (IOS)<br/>Trust Interview"]
+    R4["Rapport Survey #4<br/>Connectedness Survey"]
+    P["Trust Interview"]
     D["Debrief"]
     A --> S1 --> R1 --> S2 --> R2 --> S3 --> R3 --> S4 --> R4 --> P --> D
 
@@ -124,14 +124,14 @@ flowchart TD
 flowchart TD
     A["Briefing / Consent<br/>Continuous group"]
     S1["Scene 1<br/>Escape Room<br/>Lumi"]
-    R1["Rapport Survey #1"]
+    R1["Rapport Survey #1<br/>Connectedness Survey"]
     S2["Scene 2<br/>World Beyond<br/>Lumi"]
-    R2["Rapport Survey #2"]
+    R2["Rapport Survey #2<br/>Connectedness Survey"]
     S3["Scene 3<br/>Phanto<br/>Lumi"]
-    R3["Rapport Survey #3"]
+    R3["Rapport Survey #3<br/>Connectedness Survey"]
     S4["Scene 4<br/>Whisperer<br/>Lumi"]
-    R4["Rapport Survey #4"]
-    P["Post block<br/>Connectedness (IOS)<br/>Trust Interview"]
+    R4["Rapport Survey #4<br/>Connectedness Survey"]
+    P["Post block<br/>Trust Interview"]
     D["Debrief"]
     A --> S1 --> R1 --> S2 --> R2 --> S3 --> R3 --> S4 --> R4 --> P --> D
 ```
