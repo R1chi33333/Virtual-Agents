@@ -119,5 +119,20 @@ flowchart TD
 
 
 
+### Condition 2 – Identity Continuous
+```mermaid
+flowchart TD
+    A["Briefing / Consent<br/>Continuous group"]
+    S1["Scene 1<br/>Escape Room<br/>Lumi"]
+    R1["Rapport Survey #1"]
+    S2["Scene 2<br/>World Beyond<br/>Lumi"]
+    R2["Rapport Survey #2"]
+    S3["Scene 3<br/>Phanto<br/>Lumi"]
+    R3["Rapport Survey #3"]
+    S4["Scene 4<br/>Whisperer<br/>Lumi"]
+    R4["Rapport Survey #4"]
+    P["Post block<br/>Connectedness (IOS)<br/>Trust Interview"]
+    D["Debrief"]
+    A --> S1 --> R1 --> S2 --> R2 --> S3 --> R3 --> S4 --> R4 --> P --> D
 
 
