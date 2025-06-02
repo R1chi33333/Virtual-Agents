@@ -17,4 +17,3 @@
 | 11 | The interaction with the character was pleasant and interesting. | ☐ | ☐ | ☐ | ☐ | ☐ | ☐ | ☐ |
 | 12 | I would like to interact more with the character in the future. | ☐ | ☐ | ☐ | ☐ | ☐ | ☐ | ☐ |
 
-☆ Reverse-score these negatively worded items when calculating the overall rapport score.
