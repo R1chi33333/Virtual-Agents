@@ -112,7 +112,7 @@ flowchart TD
     R3["Rapport Survey #3"]
     S4["Scene 4<br/>Whisperer<br/>Agent D"]
     R4["Rapport Survey #4"]
-    P["Post block<br/>Connectedness (IOS)<br/>Trust Interview"]
+    P["Connectedness (IOS)<br/>Trust Interview"]
     D["Debrief"]
     A --> S1 --> R1 --> S2 --> R2 --> S3 --> R3 --> S4 --> R4 --> P --> D
 
