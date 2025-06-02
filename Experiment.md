@@ -48,39 +48,36 @@ Identity continuity is manipulated between subjects.
 ## Methodology
 
 ### 1. Participants  
-- **Sample size:** *N* = 48 (power analysis for mixed ANOVA, f = .25, α = .05, power ≥ .80).  
-- **Recruitment:** University student pool + local VR enthusiasts; age 18–35; normal or corrected-to-normal vision; no severe motion-sickness history.  
-- **Assignment:** Randomly assigned to one of two **Identity** groups  
-  - **Continuous** (n ≈ 24)  
-  - **Discontinuous** (n ≈ 24)
+- **Sample size:**   
+- **Recruitment:** 
+- **Assignment:** 
 
 ### 2. Design  
 | Factor | Levels | Type |
 |--------|--------|------|
-| **Identity Continuity** | Continuous vs. Discontinuous | **Between-subjects** |
-| **Agent / Scene** | 4 VR demos (Embodied, Animal, Object, Voice) | **Within-subjects** |
+| **Identity Continuity** | Continuous vs. Discontinuous | **Within-subjects** |
 
-> Dependent variables: **Rapport score**, **Connectedness score** (scene-by-scene).  
+> Dependent variables: **Rapport score**, **Connectedness score** (scene-by-scene).  **Perceived trustworthiness** (exit interview).
 > Qualitative outcome: **Perceived trustworthiness** (exit interview).
 
 ### 3. Apparatus & Materials  
-- **Hardware:** Meta Quest 2 / 3 + hand controllers; PC w/ Unity 2022.3 LTS for runtime logging.  
+- **Hardware:** 
 - **VR demos:**  
   1. *Escape Room* – Embodied agent  
   2. *The World Beyond* – Animal agent  
   3. *Phanto* – Object-based agent (weapon AI)  
   4. *Whisperer* (re-scripted) – Voice-only agent  
 - **Identity manipulation:**  
-  - *Continuous* group: same name **“Lumi”**, same voice, same blue diamond badge across all demos (only scene-specific cosmetic tweaks).  
+  - *Continuous* group: same name, same voice, same keyfeatures.  
   - *Discontinuous* group: unique names, voices, colors (A/B/C/D) per demo.  
 - **Questionnaires:**  
-  - **Rapport Scale** (Gratch et al., 15 items, 7-point Likert)  
-  - **Connectedness:** IOS single-item (7-point pictorial)  
+  - **Rapport Scale**  
+  - **Connectedness:** 
   - **Manipulation-check:** “These assistants felt like the same person” (1–7 Likert)
 
 ### 4. Procedure  
 1. **Briefing & Consent** → demographic survey.  
-2. Participants experience **all four demos** (counter-balanced order, ∼6 min each).  
+2. Participants experience **all four demos**   
 3. **After each demo** → Immediate Likert survey (Rapport + Connectedness).  
 4. **Post block:**  
    - Manipulation-check item  
@@ -91,12 +88,9 @@ Identity continuity is manipulated between subjects.
 - **Quantitative:** 2 (Identity) × 4 (Scene) mixed ANOVA (or linear mixed-effects) on Rapport & Connectedness.  
   - Post-hoc pairwise (Bonferroni) if interaction significant.  
   - Cronbach’s α to confirm Rapport scale reliability.  
-- **Qualitative:** Thematic analysis of interview transcripts (Braun & Clarke, 2006) focusing on trust themes; representative quotes reported to contextualise quantitative results.  
-- **Manipulation-check:** Independent-samples t-test; participants who fail (< 3 in continuous or > 5 in discontinuous) excluded from confirmatory analysis.
+- **Qualitative:** Thematic analysis of interview transcripts (Braun & Clarke, 2006) focusing on trust themes; representative quotes reported to contextualise quantitative results.  ????????????
+- **Manipulation-check:**
 
-### 6. Ethical Considerations  
-- Ethics approval obtained from institutional review board.  
-- Participants free to withdraw; resting breaks provided to mitigate VR fatigue; data anonymised and stored on encrypted drives.
 
 > **Outcome:** This mixed-method design quantifies how identity continuity influences rapport & connectedness across four agent forms, and qualitatively explains the trust mechanisms behind those effects.
 
