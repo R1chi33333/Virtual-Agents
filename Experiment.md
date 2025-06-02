@@ -20,7 +20,7 @@ Identity continuity is manipulated between subjects.
 ---
 
 ## Research Question  
-> Does keeping the **same identity** across visually different agents improve users’ **rapport**, **connectedness**, and ** credibility** in VR?
+> Does keeping the **same identity** across visually different agents improve users’ **rapport**, **connectedness**, and **credibility** in VR?
 
 ---
 
@@ -30,7 +30,7 @@ Identity continuity is manipulated between subjects.
 | **H1 (Rapport)** | Continuous identity → higher rapport scores than discontinuous identity. |
 | **H2 (Connectedness)** | Continuous identity → higher connectedness scores than discontinuous identity. |
 
-*(Trust is explored qualitatively; no directional hypothesis tested.)*
+*(Credibility is explored qualitatively; no directional hypothesis tested.)*
 
 ---
 
@@ -40,7 +40,7 @@ Identity continuity is manipulated between subjects.
 |-----------|--------|----------------|----------------|
 | **Rapport** | Quantitative | HARQ (7-point Likert) | **Immediately after each scene** (4 times) |
 | **Connectedness / Closeness** | Quantitative | IOS (Inclusion of Other in Self) *or* RISC scale (7-point Likert) | **Immediately after each scene** (4 times) |
-| **Trustworthiness** | **Qualitative only** | Semi-structured exit interview (audio-recorded) | **Once, after all four scenes** |
+| **Credibility** | **Qualitative only** | Semi-structured exit interview (audio-recorded) | **Once, after all four scenes** |
 | **Manipulation Check** | Single Likert item—“Were the assistants the same individual?” | 7-point Likert | After final scene |
 
 ---
@@ -81,14 +81,14 @@ Identity continuity is manipulated between subjects.
 3. **After each demo** → Immediate Likert survey (Rapport + Connectedness).  
 4. **Post block:**  
    - Manipulation-check item  
-   - **Exit interview** (audio-recorded, 10 min): trust perceptions, moments of high/low trust, impact of identity cues.  
+   - **Exit interview** (audio-recorded, 10 min): credibility, moments of high/low trust, impact of identity cues.  
 5. **Debrief & compensation**.
 
 ### 5. Data Analysis  
 - **Quantitative:** 2 (Identity) × 4 (Scene) mixed ANOVA (or linear mixed-effects) on Rapport & Connectedness.  
   - Post-hoc pairwise (Bonferroni) if interaction significant.  
   - Cronbach’s α to confirm Rapport scale reliability.  
-- **Qualitative:** Thematic analysis of interview transcripts (Braun & Clarke, 2006) focusing on trust themes; representative quotes reported to contextualise quantitative results.  ????????????
+- **Qualitative:**
 - **Manipulation-check:**
 
 
