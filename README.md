@@ -85,9 +85,8 @@ Identity continuity is manipulated between subjects.
 5. **Debrief & compensation**.
 
 ### 5. Data Analysis  
-- **Quantitative:** 2 (Identity) × 4 (Scene) mixed ANOVA (or linear mixed-effects) on Rapport & Connectedness.  
+- **Quantitative:** 2 (Identity) × 4 (Scene) Paired t-test on Rapport & Connectedness if interaction significant, otherwise using Wilcoxon test.  
   - Post-hoc pairwise (Bonferroni) if interaction significant.  
-  - Cronbach’s α to confirm Rapport scale reliability.  
 - **Qualitative:**
 - **Manipulation-check:**
 
