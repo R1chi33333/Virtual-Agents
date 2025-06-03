@@ -1,4 +1,4 @@
-# One Soul, Many Forms
+# One Soul, Many Forms(VR Study)
 ## How Identity Contiuity in Multi-Form VR Agents Influences User Credibility, Rapport, and Emotional Connectedness
 
 ## Study Overview  
