@@ -91,8 +91,6 @@ Identity continuity is manipulated between subjects.
 - **Manipulation-check:**
 
 
-> **Outcome:** This mixed-method design quantifies how identity continuity influences rapport & connectedness across four agent forms, and qualitatively explains the trust mechanisms behind those effects.
-
 
 
 
