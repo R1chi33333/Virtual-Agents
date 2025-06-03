@@ -123,13 +123,13 @@ flowchart TD
 ```mermaid
 flowchart TD
     A["Briefing / Consent<br/>Continuous group"]
-    S1["Scene 1<br/>Escape Room<br/>Lumi"]
+    S1["Scene 1<br/>Escape Room"]
     R1["Rapport Survey #1<br/>Connectedness Survey"]
-    S2["Scene 2<br/>World Beyond<br/>Lumi"]
+    S2["Scene 2<br/>World Beyond"]
     R2["Rapport Survey #2<br/>Connectedness Survey"]
-    S3["Scene 3<br/>Phanto<br/>Lumi"]
+    S3["Scene 3<br/>Phanto"]
     R3["Rapport Survey #3<br/>Connectedness Survey"]
-    S4["Scene 4<br/>Whisperer<br/>Lumi"]
+    S4["Scene 4<br/>Whisperer"]
     R4["Rapport Survey #4<br/>Connectedness Survey"]
     P["Post block<br/>Trust Interview"]
     D["Debrief"]
