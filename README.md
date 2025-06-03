@@ -7,9 +7,9 @@ Identity continuity is manipulated between subjects.
 | VR Demo | Agent Form | Scene Focus |
 |---------|------------|-------------|
 | **[Escape Room](Experiment/Demos.md)** | Embodied (human) | Puzzle solving |
-| **The World Beyond** | Animal partner | Companion exploration |
-| **Phanto** | Object-based (weapon AI) | MR shooting / cleaning |
-| **Whisperer (reworked)** | Voice-only | Dialogue-driven puzzle |
+| **[The World Beyond](Experiment/Demos.md)** | Animal partner | Companion exploration |
+| **[Phanto](Experiment/Demos.md)** | Object-based (weapon AI) | MR shooting / cleaning |
+| **[Whisperer](Experiment/Demos.md)** | Voice-only | Dialogue-driven puzzle |
 
 ### Conditions
 | Condition | Identity Treatment | Key Notes |
