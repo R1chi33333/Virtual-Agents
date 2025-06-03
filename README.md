@@ -38,9 +38,9 @@ Identity continuity is manipulated between subjects.
 
 | Construct | Method | Scale / Source | When collected |
 |-----------|--------|----------------|----------------|
-| **Rapport** | Quantitative | [HARQ (7-point Likert)](Questionnaire/HARQ.md) | **Immediately after each scene** (4 times) |
-| **Connectedness** | Quantitative | IOS (Inclusion of Other in Self) *or* RISC scale (7-point Likert) | **Immediately after each scene** (4 times) |
-| **Credibility** | **Qualitative only** | Semi-structured exit interview (audio-recorded) | **Once, after all four scenes** |
+| **Rapport** | **Quantitative** | [HARQ (7-point Likert)](Questionnaire/HARQ.md) | **Immediately after each scene** (4 times) |
+| **Connectedness** | **Quantitative** | IOS (Inclusion of Other in Self) *or* RISC scale (7-point Likert) | **Immediately after each scene** (4 times) |
+| **Credibility** | **Qualitative** | Semi-structured exit interview (audio-recorded) | **Once, after all four scenes** |
 | **Manipulation Check** | Single Likert item—“Were the agents the same individual?” | 7-point Likert | After final scene |
 
 ---
@@ -57,8 +57,8 @@ Identity continuity is manipulated between subjects.
 |--------|--------|------|
 | **Identity Continuity** | Continuous vs. Discontinuous | **Within-subjects** |
 
-> Dependent variables: **Rapport score**, **Connectedness score** (scene-by-scene).  **Perceived trustworthiness** (exit interview).
-> Qualitative outcome: **Perceived trustworthiness** (exit interview).
+> Dependent variables: **Rapport score**, **Emotional Connectedness score** (scene-by-scene).**Credibility** (exit interview).
+> Qualitative outcome: **Credibility** (exit interview).
 
 ### 3. Apparatus & Materials  
 - **Hardware:** 
