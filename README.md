@@ -6,7 +6,7 @@ Identity continuity is manipulated between subjects.
 
 | VR Demo | Agent Form | Scene Focus |
 |---------|------------|-------------|
-| **[Escape Room](Experiment/VRDemos.md)** | Embodied (human) | Puzzle solving |
+| **[Escape Room](Experiment/VR Demos.md)** | Embodied (human) | Puzzle solving |
 | **The World Beyond** | Animal partner | Companion exploration |
 | **Phanto** | Object-based (weapon AI) | MR shooting / cleaning |
 | **Whisperer (reworked)** | Voice-only | Dialogue-driven puzzle |
