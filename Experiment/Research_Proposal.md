@@ -91,6 +91,8 @@ We anticipate that participants will report significantly higher rapport and con
 
 Practically, the results will provide design guidelines for VR developers. If continuity proves beneficial, designers should ensure that characters retain key identity markers across different contexts or appearances. For instance, a tutorial agent that later becomes an in-game companion should keep a recognizable name and voice to leverage established rapport. Such guidelines can improve user experience in VR games, training, and social simulations. On the other hand, if discontinuity shows little effect or even benefits (e.g., novelty reduces rapport but adds intrigue), designers might instead vary agents freely. We will articulate these implications clearly: for example, “Use consistent naming and vocal cues for an agent that appears in multiple forms to maximize emotional engagement” (if supported by data).
 
+Finally, this study’s mixed-methods approach contributes to research methodology in VR as well. By combining between-subject design, we offer a template for future multi-agent experiments. Overall, we expect to contribute both empirically and practically to the field of HCI and VR agent design.
+
 
 
 
