@@ -56,7 +56,7 @@ Identity continuity is manipulated between subjects.
 ### 2. Design  
 | Factor | Levels | Type |
 |--------|--------|------|
-| **Identity Continuity** | Continuous vs. Discontinuous | **[Within-subjects](Experiment/Subject_Design.md)** |
+| **Identity Continuity** | Continuous vs. Discontinuous | **[Between-subjects](Experiment/Subject_Design.md)** |
 
 > Dependent variables: **Rapport score**, **Emotional Connectedness score** (scene-by-scene).**Credibility** (exit interview).
 > Qualitative outcome: **Credibility** (exit interview).
