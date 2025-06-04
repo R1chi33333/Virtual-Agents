@@ -44,8 +44,8 @@ This between-subject approach was selected based on careful consideration of its
 
 ### Participants
 - **Sample size**
-- **
-- **
+- **Recruitment**
+- **Assignment**
 
 
 
