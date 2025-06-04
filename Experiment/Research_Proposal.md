@@ -105,7 +105,7 @@ Practically, the results will provide design guidelines for VR developers. If co
 Finally, this study’s mixed-methods approach contributes to research methodology in VR as well. By combining between-subject design, we offer a template for future multi-agent experiments. Overall, we expect to contribute both empirically and practically to the field of HCI and VR agent design.
 
 
-
+## 6. References
 
 
 
