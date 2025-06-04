@@ -11,15 +11,7 @@ This question addresses a gap in HCI/VR research. Previous work has explored age
 
 ## 2. Literature Review
 ### 2.1 Virtual Agents in VR
-
-
-#### 2.1.1 Embodied Human Agents
-
-#### 2.1.2 Animal Companion Agents
-
-#### 2.1.3 Object-Based Agents
-
-#### 2.1.4 Voice-Only Agents
+"Virtual agents in HCI are broadly defined as computer-generated characters that engage users in lifelike interactions within a digital environment"[]. These agents, ranging from simple chatbots to richly animated 3D avatars – typically assume social roles (e.g. guide, companion, or adversary) that shape the user’s experience or narrative[]. Crucially, embodied agents can employ nonverbal cues (gesture, gaze, posture) to enrich communication: prior work has shown that simply giving an agent a humanlike form causes users to treat it more like "another person" and that adding natural behaviors (e.g. expressive gestures or emotion) increases users' perceptions of the agent's realism and likability[]. Likewise, agents combining verbal and visual channels tend to elicit a strong sense of social presence, users often mindlessly apply social norms to them as if they were real humans[][]. As a result, virtual agents are a major focus of HCI research: for example, disembodied voice assistants such as Siri and Alexa already have on the order of hundreds of millions of users worldwide[]. In practice, virtual agents have been deployed to support learning, therapy, or collaboration, and studies report that embodied agents in AR/VR can even reduce user cognitive load and improve engagement and task performance by boosting immersion and rapport.
 
 ### 2.2 Identity Continuity
 In human–computer interaction, an agent’s identity cues (name, voice, color scheme) shape user perceptions. In narrative theory and psychology, maintaining a consistent character across scenes strengthens the user’s sense of continuity. For example, in storytelling or game design, a character’s persistent identity often yields greater emotional investment. However, little prior work has examined identity consistency across multi-form agents in VR. Existing VR research has examined agent embodiment (e.g. how animal vs. human agents influence empathy) and social presence, but typically with a single agent form. Studies on robot consistency show that repeated interactions with the same persona can build trust, while changing persona might confuse users. We draw on analogous findings from social robot research (e.g. user trust in physically embodied agents) to posit that identity continuity in VR will similarly affect relational outcomes.
