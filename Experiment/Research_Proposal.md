@@ -14,8 +14,11 @@ This question addresses a gap in HCI/VR research. Previous work has explored age
 Prior HCI studies have explored how different agent embodiments and behaviors affect user experience. For example, research on companion agents (both human and animal) suggests that social presence and realism enhance engagement. However, most VR agent studies use a single avatar type. Studies on nonverbal communication in VR show that consistent cues (like voice and style) help users follow an agent’s intentions. In related work, an “artificial social agent questionnaire” (ASAQ) was developed to measure users’ sense of social bond with an agent. These ASAQ constructs (e.g. willingness to interact, perceived social presence) inform our connectedness measure. Our review indicates a gap: few studies have manipulated agent identity continuity explicitly. We aim to fill this gap by comparing identity-continuous vs discontinuous conditions, leveraging a mixed-agent VR setting. This will extend theory on identity design: if our results support continuity, it implies that users form a single “virtual persona” that spans forms, enriching theories of multi-agent interaction in VR.
 
 #### 2.1.1 Embodied Human Agents
+
 #### 2.1.2 Animal Companion Agents
+
 #### 2.1.3 Object-Based Agents
+
 #### 2.1.4 Voice-Only Agents
 
 ### 2.2 Identity Continuity
