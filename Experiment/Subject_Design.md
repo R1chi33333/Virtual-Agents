@@ -23,7 +23,7 @@
 - Participants must play 8 VR sessions → higher fatigue and potential VR sickness.
 - Complex logistics: counterbalance order or provide alternate game sets to avoid practice effects.
 
-## Recommendation
+## Final Decision
 Use a **between-subjects design**:
 - Each participant plays 4 games in only one condition (continuous vs. discontinuous identity).
 - Avoids fatigue, order effects, and Hypothesis guessing.
