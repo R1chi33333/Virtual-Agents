@@ -78,9 +78,13 @@ After each scene interaction, participants will complete two questionnaires on a
 
 These instruments have been previously validated. Both measures are administered immediately after each of the four scenes.
 
+### 4.5 Data Analysis
 
 
 ## 5. Expected Results and Contributions
+
+We anticipate that participants will report significantly higher rapport and connectedness in the identity-continuous condition. In other words, H1 and H2 are expected to be supported: continuous identity will foster smoother interactions and a deeper bond than when the agent “resets” persona each scene. For example, keeping the same name, voice and memory may help users feel an ongoing partnership, consistent with the notion that connectedness develops over repeated interactions. By contrast, in the discontinuous condition the break in identity may act like a scene change, preventing cumulative bond formation.
+(From interviews, we expect that credibility (an agent’s perceived trustworthiness or competence) will be mentioned more positively under continuity.) Continuous identity may lead users to perceive the agent as more reliable and coherent, whereas discontinuity might introduce doubt (e.g., “Why is this new voice here?”). These insights will extend theoretical understanding of agent design by showing that identity design, not just visual fidelity or behavior influences social metrics. This complements existing HCI theories on trust and anthropomorphism, adding empirical evidence about persona continuity. We effectively test that a single persona transcending form enhances user–agent rapport.
 
 
 
