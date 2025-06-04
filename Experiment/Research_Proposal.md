@@ -48,7 +48,12 @@ This between-subject approach was selected based on careful consideration of its
 - **Assignment**
 
 
+### Experimental Conditions
 
+We have two Identity Continuity conditions：
+
+- **Identity-Continuous Condition: Participants interact with virtual agents maintaining consistent identity cues (same name, voice, thematic color) across all four VR scenarios (Embodied Human, Animal Companion, Object-Based AI, Voice-Only).**
+- **Identity-Discontinuous Condition: Participants interact with agents that exhibit distinct identity cues (unique names, voices, colors) in each of the four VR scenarios.**
 
 
 
