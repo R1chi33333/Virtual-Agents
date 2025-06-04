@@ -101,5 +101,6 @@ Finally, this study’s mixed-methods approach contributes to research methodolo
 ## 6. References
 
 
+[5] I. Wang, J. Smith and J. Ruiz, " Exploring Virtual Agents for Augmented Reality" in *Proceedings of the 2019 CHI Conference on Human Factors in Computing Systems* (CHI ’19), Glasgow, U.K., May 4–9 2019, Paper 281, doi: 10.1145/3290605.3300511.
 
 
