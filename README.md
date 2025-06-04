@@ -86,7 +86,7 @@ Identity continuity is manipulated between subjects.
 5. **Debrief & compensation**.
 
 ### 5. Data Analysis  
-- **Quantitative:** 2 (Identity) × 4 (Scene) Paired t-test on Rapport & Connectedness if interaction significant, otherwise using Wilcoxon test.  
+- **Quantitative:** 2 (Identity) × 4 (Scene) UnPaired t-test on Rapport & Connectedness if interaction significant, otherwise using Mann-Whitney test.  
   - Post-hoc pairwise (Bonferroni) if interaction significant.  
 - **Qualitative:**
 - **Manipulation-check:**
