@@ -5,7 +5,7 @@ For each statement below, please rate on a 7-point Likert scale (1 = Strongly Di
 1.
    **The extent to which a beneficial association is formed?**
 2.
-   **The willingess of the user to interact with the agent**
+   **The willingness of the user to interact with the agent**
 3.
    **The degree to which the user perceives the presence of a social entity in the interaction**
 4.
