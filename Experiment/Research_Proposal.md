@@ -37,8 +37,8 @@ These are directional hypotheses based on the assumption that continuity fosters
 
 
 To effectively assess the influence of identity continuity on rapport, emotional connectedness, and agent credibility, this study will employ a between-subjects experimental design. Participants will be randomly assigned to one of two experimental conditions:
-- **Identity-Continuous Condition: Participants interact with virtual agents maintaining consistent identity cues (same name, voice, thematic color) across all four VR scenarios (Embodied Human, Animal Companion, Object-Based AI, Voice-Only).**
-- **Identity-Discontinuous Condition: Participants interact with agents that exhibit distinct identity cues (unique names, voices, colors) in each of the four VR scenarios.**
+- **Identity-Continuous Condition: Participants interact with virtual agents maintaining consistent identity cues across all four VR scenarios (Embodied Human, Animal Companion, Object-Based AI, Voice-Only).**
+- **Identity-Discontinuous Condition: Participants interact with agents that exhibit distinct identity cues in each of the four VR scenarios.**
 
 This between-subject approach was selected based on careful consideration of its advantages and limitations. Specifically, this design eliminates potential carryover or order effects associated with repeated measures. Participants engage in only four VR interactions, significantly reducing fatigue and the risk of VR-induced motion sickness compared to a within-subject design requiring eight interactions. Additionally, a simpler experimental setup reduces logistical complexity and avoids participant hypothesis guessing about experimental conditions. Furthermore, demographic data (age, gender, VR experience) will be collected to verify group equivalence, thus ensuring comparability between the two experimental conditions.All other aspects, such as VR scene content, duration, complexity, and interaction methods, will remain standardized across both conditions to isolate identity continuity as the independent variable influencing user rapport, emotional connectedness (quantitatively measured via validated scales), and credibility (qualitatively assessed through semi-structured interviews).
 
@@ -52,14 +52,14 @@ This between-subject approach was selected based on careful consideration of its
 
 We have two Identity Continuity conditions：
 
-- **Identity-Continuous Condition: Participants interact with virtual agents maintaining consistent identity cues (same name, voice, thematic color) across all four VR scenarios (Embodied Human, Animal Companion, Object-Based AI, Voice-Only).**
-- **Identity-Discontinuous Condition: Participants interact with agents that exhibit distinct identity cues (unique names, voices, colors) in each of the four VR scenarios.**
+- **Identity-Continuous Condition: Participants interact with virtual agents maintaining consistent identity cues across all four VR scenarios (Embodied Agent, Animal Companion, Object-Based Agent, Voice-Only Agent).**
+- **Identity-Discontinuous Condition: Participants interact with agents that exhibit distinct identity cues in each of the four VR scenarios.**
 
 **Agent Forms (Scenes)**: Each scene has a different agent embodiment to test multi-form identity. The four scenes (used in both conditions) are:
 - **Escape Room — Embodied Agent**  
   You stand in a locked puzzle chamber. A humanoid companion shares the space, pointing out clues, offering verbal hints, and reacting to your progress. With VR hands you grab, rotate, and combine objects until the exit door unlocks.
 
-- **The World Beyond — Animal Agent**  
+- **The World Beyond — Animal Companion**  
   A mixed-reality creature named Oppy follows you around your real room. Using a magic flashlight, you reveal glowing orbs behind virtual “portals,” toss them to Oppy, and guide it with simple gestures or voice commands as it responds playfully.
 
 - **Phanto — Object-Based Agent (Talking Gun)**  
