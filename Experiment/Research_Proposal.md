@@ -68,7 +68,7 @@ We have two Identity Continuity conditions：
 - **Whisperer — Voice-Only Agent**  
   No avatar appears. An unseen “translator” whispers riddles and clues. You reply aloud; the environment changes according to recognized intents. The agent exists purely as a disembodied voice that mediates the interaction.
 
-Each participant experiences all four scenes. In the C1 (Identity-Continuous Condition), the same agent appears in different guises (human, animal, object, voice) with consistent cues. In the C2 (Identity-Discontinuous Condition), the agent key features changes each scene indicating a different persona. The order of scenes is fixed (1→4) for all participants to maintain flow.
+Each participant experiences all four scenes. In the C1 (identity-continuous condition), the same agent appears in different guises (human, animal, object, voice) with consistent cues. In the C2 (identity-discontinuous condition), the agent key features changes each scene indicating a different persona. The order of scenes is fixed (1→4) for all participants to maintain flow.
 
 
 
