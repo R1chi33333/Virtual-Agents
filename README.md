@@ -1,5 +1,5 @@
 # One Soul, Many Forms(VR Study)
-## How Identity Contiuity in Multi-Form VR Agents Influences User Credibility, Rapport, and Emotional Connectedness
+## How Identity Continuity in Multi-Form VR Agents Influences User Credibility, Rapport, and Emotional Connectedness
 
 ## Study Overview  
 Four open-source VR demos are used, each featuring a different **agent form**.  
@@ -22,7 +22,7 @@ Identity continuity is manipulated between subjects.
 
 ## Research Question  
 > - Does keeping the **same identity** across visually different agents improve users’ **rapport**, **connectedness**, and **credibility** in VR?
-> - Does maintaing **identity continuity** in virtual agents with changing apperances help users maintain or **strengthen** their sense of **rapport**, **emotional connectedness** and **credibility** in **VR GAMES**? 
+> - Does maintaining **identity continuity** in virtual agents with changing appearances help users maintain or **strengthen** their sense of **rapport**, **emotional connectedness** and **credibility** in **VR GAMES**?
 ---
 
 ## Hypotheses
