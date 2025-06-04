@@ -24,7 +24,7 @@ Prior HCI studies have explored how different agent embodiments and behaviors af
 
 ## Research Questions and Hypotheses
 
-Based on the above, our primary Research Question is: How does identity continuity across multiple virtual agent forms influence users’ rapport, emotional connectedness, and credibility in VR? In particular, we ask:  Does maintaining **identity continuity** in virtual agents with changing appearances help users maintain or **strengthen** their sense of **rapport**, **emotional connectedness** and **credibility** in **VR GAMES**? We propose two main hypotheses:
+Based on the above, our primary Research Question is: Does maintaining **identity continuity** in virtual agents with changing appearances help users maintain or **strengthen** their sense of **rapport**, **emotional connectedness** and **credibility** in **VR GAMES**? We propose two main hypotheses:
 - **H1 (Rapport): Participants in the identity-continuous condition will report higher rapport scores than in the identity-discontinuous condition.**
 - **H2 (Connectedness): Participants in the identity-continuous condition will report higher emotional connectedness scores than in the identity-discontinuous condition.**
 
