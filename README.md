@@ -40,7 +40,7 @@ Identity continuity is manipulated between subjects.
 | Construct | Method | Scale / Source | When collected |
 |-----------|--------|----------------|----------------|
 | **[Rapport](Questionnaire/Definition.md)** | **Quantitative** | [HARQ (7-point Likert)](Questionnaire/HARQ.md) | **Immediately after each scene** (4 times) |
-| **[Connectedness](Questionnaire/Definition.md)** | **Quantitative** | IOS (Inclusion of Other in Self) *or* RISC scale (7-point Likert) | **Immediately after each scene** (4 times) |
+| **[Connectedness](Questionnaire/Definition.md)** | **Quantitative** | [ASAQ(7-point Likert)](Questionnaire/ASAQ.md) | **Immediately after each scene** (4 times) |
 | **Credibility** | **Qualitative** | Semi-structured exit interview (audio-recorded) | **Once, after all four scenes** |
 | **Manipulation Check** | Single Likert item—“Were the agents the same individual?” | 7-point Likert | After final scene |
 
