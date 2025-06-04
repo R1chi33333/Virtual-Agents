@@ -76,7 +76,7 @@ After each scene interaction, participants will complete two questionnaires on a
 - Rapport: Measured via the Human–Agent Rapport Questionnaire (HARQ) on a 7-point Likert scale. The HARQ includes items about how natural and positive the interaction felt.
 - Emotional Connectedness: Measured via the Artificial Social Agent Questionnaire (ASAQ) adapted for connectedness, also on 7-point scales.The ASAQ asks about users’ perceived closeness and willingness to interact with the agent.
 
-These instruments have been previously validated (e.g., HARQ for rapport). Both measures are administered immediately after each of the four scenes.
+These instruments have been previously validated. Both measures are administered immediately after each of the four scenes.
 
 
 
