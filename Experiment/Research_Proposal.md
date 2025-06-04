@@ -55,6 +55,13 @@ We have two Identity Continuity conditions：
 - **Identity-Continuous Condition: Participants interact with virtual agents maintaining consistent identity cues (same name, voice, thematic color) across all four VR scenarios (Embodied Human, Animal Companion, Object-Based AI, Voice-Only).**
 - **Identity-Discontinuous Condition: Participants interact with agents that exhibit distinct identity cues (unique names, voices, colors) in each of the four VR scenarios.**
 
+**Agent Forms (Scenes)**: Each scene has a different agent embodiment to test multi-form identity. The four scenes (used in both conditions) are:
+- Escape Room: An embodied human agent guiding a puzzle (Embodied Avatar)
+- The World Beyond: An animal companion agent exploring a landscape with the user.
+- Phanto: An object-based AI (weapon or tool with intelligence) in a mixed-reality scenario.
+- Whisperer: A voice-only agent leading a dialogue-based puzzle.
+
+
 
 
 
