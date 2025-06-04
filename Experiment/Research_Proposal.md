@@ -79,7 +79,11 @@ After each scene interaction, participants will complete two questionnaires on a
 These instruments have been previously validated. Both measures are administered immediately after each of the four scenes.
 
 ### 4.5 Data Analysis
+- Quantitative Analysis:
+Given the between-subjects design, we will analyze the quantitative data (rapport and emotional connectedness) using independent-samples t-tests (or Mann-Whitney U tests if normality assumptions are violated). Specifically, we will compare mean scores for rapport and emotional connectedness between the Identity-Continuous and Identity-Discontinuous conditions. Each participant’s scores will be averaged across the four VR agent forms to yield a composite measure per participant. Based on our hypotheses, we anticipate significantly higher rapport and emotional connectedness scores in the Identity-Continuous condition compared to the Identity-Discontinuous condition.
 
+- Qualitative Analysis:
+Interview transcripts will undergo thematic analysis to explore participants' perceptions of agent credibility. Responses will be systematically coded to identify emergent themes related to believability, trustworthiness, and consistency of agent identity. Differences in participant experiences across conditions will be highlighted qualitatively, particularly examining whether participants perceive agents as more credible under identity-continuous conditions or express confusion and novelty regarding agent identity shifts under identity-discontinuous conditions. Qualitative findings will provide contextual insights complementing the quantitative results.
 
 ## 5. Expected Results and Contributions
 
