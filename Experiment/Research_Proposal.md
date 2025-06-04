@@ -72,7 +72,7 @@ Each participant experiences all four scenes. In the C1 (identity-continuous con
 
 ### 4.4 Data Collection
 
-After each scene interaction, participants will complete two questionnaires on a computer within the VR setup:
+After each scene interaction, participants will complete two questionnaires on a computer:
 - Rapport: Measured via the Human–Agent Rapport Questionnaire (HARQ) on a 7-point Likert scale. The HARQ includes items about how natural and positive the interaction felt.
 - Emotional Connectedness: Measured via the Artificial Social Agent Questionnaire (ASAQ) adapted for connectedness, also on 7-point scales.The ASAQ asks about users’ perceived closeness and willingness to interact with the agent.
 
