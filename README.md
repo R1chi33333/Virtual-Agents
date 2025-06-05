@@ -40,8 +40,8 @@ Identity continuity is manipulated between subjects.
 |-----------|--------|----------------|----------------|
 | **[Rapport](Questionnaire/Definition.md)** | **Quantitative** | [HARQ (7-point Likert)](Questionnaire/HARQ.md) | **Immediately after each scene** (4 times) |
 | **[Connectedness](Questionnaire/Definition.md)** | **Quantitative** | [ASAQ(7-point Likert)](Questionnaire/ASAQ.md) | **Immediately after each scene** (4 times) |
-| **Credibility** | **Qualitative** | [Credibility Scale](Questionnaire/Credibility.md) | **mmediately after each scene** (4 times) |
-| **Manipulation Check** | “Were the agents the same individual?” | Yes/No | After final scene (Only C1) |
+| **Credibility** | **Qualitative** | [Credibility Scale](Questionnaire/Credibility.md) | **Immediately after each scene** (4 times) |
+| **Manipulation Check** | “Were the agents the same individual?” | Yes/No | After final scene (Only for C2) |
 
 ---
 
