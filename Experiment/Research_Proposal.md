@@ -104,7 +104,7 @@ Finally, this study approach contributes to research methodology in VR as well. 
 
 
 ## 6. References
-[^1] Fox, J., Ahn, S. J., Janssen, J. H., Yeykelis, L., Segovia, K. Y., and Bailenson, J. N. (2015). Avatars versus Agents: A Meta-Analysis Quantifying the Effect of Agency on Social Influence. Human-Computer Interact. 30, 401–432. doi:10.1080/07370024.2014.921494
+[^1]:  Fox, J., Ahn, S. J., Janssen, J. H., Yeykelis, L., Segovia, K. Y., and Bailenson, J. N. (2015). Avatars versus Agents: A Meta-Analysis Quantifying the Effect of Agency on Social Influence. Human-Computer Interact. 30, 401–432. doi:10.1080/07370024.2014.921494
 
 [2] Greenberg, N., & Walker, C. (2024). Lessons from an app update at Replika AI: Identity discontinuity and user backlash (arXiv 2412.14190).
 
