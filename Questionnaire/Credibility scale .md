@@ -1,4 +1,5 @@
 ## Credibility scale (Questions)  
+*(Adapted from Robert R. Hoffman et al., 2023 – [Measures for Explainable AI](https://www.frontiersin.org/journals/computer-science/articles/10.3389/fcomp.2023.1096257/full))*  
 
 For each statement below, please rate on a 5-point Likert scale 5-1(I agree strongly, I agree somewhat, I'm neutral about it, I disagree somewhat, I disagree strongly).
 
