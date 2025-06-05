@@ -41,8 +41,8 @@ These are directional hypotheses based on the assumption that continuity fosters
 
 
 To effectively assess the influence of identity continuity on rapport, emotional connectedness, and agent credibility, this study will employ a between-subjects experimental design. Participants will be randomly assigned to one of two experimental conditions:
-- **C1: Identity-Continuous Condition: Participants interact with virtual agents maintaining consistent identity cues across all four VR scenarios (Embodied Human, Animal Companion, Object-Based AI, Voice-Only).**
-- **C2: Identity-Discontinuous Condition: Participants interact with agents that exhibit distinct identity cues in each of the four VR scenarios.**
+- **C1: Identity-Discontinuous Condition: Participants interact with agents that exhibit distinct identity cues in each of the four VR scenarios.**
+- **C2: Identity-Continuous Condition: Participants interact with virtual agents maintaining consistent identity cues across all four VR scenarios (Embodied Human, Animal Companion, Object-Based AI, Voice-Only).**
 
 This between-subject approach was selected based on careful consideration of its advantages and limitations. Specifically, this design eliminates potential carryover or order effects associated with repeated measures. Participants engage in only four VR interactions, significantly reducing fatigue and the risk of VR-induced motion sickness compared to a within-subject design requiring eight interactions. Additionally, a simpler experimental setup reduces logistical complexity and avoids participant hypothesis guessing about experimental conditions. Furthermore, demographic data (age, gender, VR experience) will be collected to verify group equivalence, thus ensuring comparability between the two experimental conditions.All other aspects, such as VR scene content, duration, complexity, and interaction methods, will remain standardized across both conditions to isolate identity continuity as the independent variable influencing user rapport, emotional connectedness (quantitatively measured via validated scales), and credibility (qualitatively assessed through semi-structured interviews).
 
