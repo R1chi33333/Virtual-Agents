@@ -56,7 +56,7 @@ This between-subject approach was selected based on careful consideration of its
 
 We have two Identity Continuity conditions：
 
-- **C1: **Identity-Discontinuous Condition: Participants interact with agents that exhibit distinct identity cues in each of the four VR scenarios.**
+- **C1: Identity-Discontinuous Condition: Participants interact with agents that exhibit distinct identity cues in each of the four VR scenarios.**
 - **C2: Identity-Continuous Condition: Participants interact with virtual agents maintaining consistent identity cues across all four VR scenarios (Embodied Agent, Animal Companion, Object-Based Agent, Voice-Only Agent).**
 
 **Agent Forms (Scenes)**: Each scene has a different agent embodiment to test multi-form identity. The four scenes (used in both conditions) are:
