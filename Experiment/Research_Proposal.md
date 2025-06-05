@@ -19,8 +19,8 @@ In human–computer interaction, an agent’s identity cues (name, voice, color 
 
 ### 2.3 Rapport, Emotional Connectedness and Credibility. 
 - Rapport refers to the immediate quality of interaction: the feeling that communication is smooth and coordinated. Tickle-Degnen and Rosenthal define rapport as mutual attentiveness, positivity, and coordination. In VR, high rapport might manifest as users feeling “in sync” with an agent’s dialogue or actions.
-- Emotional connectedness (or closeness) is a longer-term bond: how much the agent feels like part of the user’s social circle. Aron et al. note that closeness “exists when a person’s representation of self includes the other”. In our context, connectedness reflects how much a user feels allied with the agent across scenes. We expect that rapport can fluctuate scene-to-scene, while connectedness accumulates over the experiment. High rapport often precedes trust, whereas high connectedness coexists with deep trust (building on literature in trust and virtual agents).
-- Credibility adds a complementary dimension: it captures whether users regard the agent as a reliable and competent partner capable of performing the task at hand. McGloin et al. operationalise credibility with bipolar adjectives such as unreliable–reliable, incompetent–competent and untrustworthy–trustworthy applied to an avatar or message source. More broadly, credibility is “a set of source characteristics that increase confidence and trust in the message”. In work on explainable AI, Hoffman et al. incorporate similar notions—confidence, predictability, reliability and believability—into the XAI Trust Scale, framing credibility as the user’s judgment that the system will act correctly and consistently.
+- Emotional connectedness is a longer-term bond: how much the agent feels like part of the user’s social circle. Aron et al. note that closeness “exists when a person’s representation of self includes the other”. In our context, connectedness reflects how much a user feels allied with the agent across scenes. We expect that rapport can fluctuate scene-to-scene, while connectedness accumulates over the experiment. High rapport often precedes trust, whereas high connectedness coexists with deep trust.
+- Credibility captures whether users regard the agent as a reliable and competent partner capable of performing the task at hand. McGloin et al. operationalise credibility with bipolar adjectives such as unreliable–reliable, incompetent–competent and untrustworthy–trustworthy applied to an avatar or message source. More broadly, credibility is “a set of source characteristics that increase confidence and trust in the message”. In work on explainable AI, Hoffman et al. incorporate similar notions—confidence, predictability, reliability and believability—into the XAI Trust Scale, framing credibility as the user’s judgment that the system will act correctly and consistently.
 
 
 Together, these three constructs give a layered view of the user–agent relationship: rapport captures the felt smoothness of each encounter, emotional connectedness reflects the accumulating social bond, and credibility gauges whether the agent is considered competent and dependable enough to achieve the user’s goals.
@@ -35,10 +35,10 @@ Prior HCI studies have explored how different agent embodiments and behaviors af
 
 Based on the above, our primary Research Question is: Does maintaining **identity continuity** in virtual agents with changing appearances help users maintain or **strengthen** their sense of **rapport**, **emotional connectedness** and **credibility** in **VR GAMES**? We propose two main hypotheses:
 - **H1 (Rapport): Participants in the identity-continuous condition will report higher rapport scores than in the identity-discontinuous condition.**
-- **H2 (Connectedness): Participants in the identity-continuous condition will report higher emotional connectedness scores than in the identity-discontinuous condition.**
+- **H2 (Emotional Connectedness): Participants in the identity-continuous condition will report higher emotional connectedness scores than in the identity-discontinuous condition.**
+- **H3 (Credibility): Participants in the identity-continuous condition will report higher credibility scores than in the identity-discontinuous condition.**
 
-These are directional hypotheses based on the assumption that continuity fosters social bond. Credibility will be explored qualitatively via interview, so we do not state a directional hypothesis for it. We will nonetheless examine user remarks on credibility in the exit interview to see if continuity affects those perceptions (beyond just rapport and closeness).
-
+These are directional hypotheses based on the assumption that continuity fosters social bond.
 
 
 ## 4. Research Design
@@ -49,7 +49,7 @@ To effectively assess the influence of identity continuity on rapport, emotional
 - **C1: Identity-Discontinuous Condition: Participants interact with agents that exhibit distinct identity cues in each of the four VR scenarios.**
 - **C2: Identity-Continuous Condition: Participants interact with virtual agents maintaining consistent identity cues across all four VR scenarios (Embodied Human, Animal Companion, Object-Based AI, Voice-Only).**
 
-This between-subject approach was selected based on careful consideration of its advantages and limitations. Specifically, this design eliminates potential carryover or order effects associated with repeated measures. Participants engage in only four VR interactions, significantly reducing fatigue and the risk of VR-induced motion sickness compared to a within-subject design requiring eight interactions. Additionally, a simpler experimental setup reduces logistical complexity and avoids participant hypothesis guessing about experimental conditions. Furthermore, demographic data (age, gender, VR experience) will be collected to verify group equivalence, thus ensuring comparability between the two experimental conditions.All other aspects, such as VR scene content, duration, complexity, and interaction methods, will remain standardized across both conditions to isolate identity continuity as the independent variable influencing user rapport, emotional connectedness (quantitatively measured via validated scales), and credibility (qualitatively assessed through semi-structured interviews).
+This between-subject approach was selected based on careful consideration of its advantages and limitations. Specifically, this design eliminates potential carryover or order effects associated with repeated measures. Participants engage in only four VR interactions, significantly reducing fatigue and the risk of VR-induced motion sickness compared to a within-subject design requiring eight interactions. Additionally, a simpler experimental setup reduces logistical complexity and avoids participant hypothesis guessing about experimental conditions. Furthermore, demographic data (age, gender, VR experience) will be collected to verify group equivalence, thus ensuring comparability between the two experimental conditions.All other aspects, such as VR scene content, duration, complexity, and interaction methods, will remain standardized across both conditions to isolate identity continuity as the independent variable influencing user rapport, emotional connectedness and credibility (quantitatively measured via validated scales).
 
 ### 4.2 Participants
 - **Sample size**
@@ -77,13 +77,14 @@ We have two Identity Continuity conditions：
 - **Whisperer — Voice-Only Agent**  
   No avatar appears. An unseen “translator” whispers riddles and clues. You reply aloud; the environment changes according to recognized intents. The agent exists purely as a disembodied voice that mediates the interaction.
 
-Each participant experiences all four scenes. In the C1 (identity-continuous condition), the same agent appears in different guises (human, animal, object, voice) with consistent cues. In the C2 (identity-discontinuous condition), the agent key features changes each scene indicating a different persona. The order of scenes is fixed (1→4) for all participants to maintain flow.
+Each participant experiences all four scenes. In the C2 (identity-continuous condition), the same agent appears in different guises (human, animal, object, voice) with consistent cues. In the C1 (identity-discontinuous condition), the agent key features changes each scene indicating a different persona. The order of scenes is fixed (1→4) for all participants to maintain flow.
 
 ### 4.4 Data Collection
 
 After each scene interaction, participants will complete two questionnaires on a computer:
 - Rapport: Measured via the Human–Agent Rapport Questionnaire (HARQ) on a 7-point Likert scale. The HARQ includes items about how natural and positive the interaction felt.
 - Emotional Connectedness: Measured via the Artificial Social Agent Questionnaire (ASAQ) adapted for connectedness, also on 7-point scales.The ASAQ asks about users’ perceived closeness and willingness to interact with the agent.
+- Credibility: Measured via the Trust Scale adapted for credibility, 5-point scales. 
 
 These instruments have been previously validated. Both measures are administered immediately after each of the four scenes.
 
