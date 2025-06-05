@@ -29,8 +29,8 @@ Identity continuity is manipulated between subjects.
 |----|-----------|
 | **H1 (Rapport)** | Continuous identity → higher rapport scores than discontinuous identity. |
 | **H2 (Connectedness)** | Continuous identity → higher connectedness scores than discontinuous identity. |
+| **H3 (Credibility)** | Continuous identity → higher credibility scores than discontinuous identity. |
 
-*(Credibility is explored qualitatively; no directional hypothesis tested.)*
 
 ---
 
@@ -57,8 +57,7 @@ Identity continuity is manipulated between subjects.
 |--------|--------|------|
 | **Identity Continuity** | Continuous vs. Discontinuous | **[Between-subjects](Experiment/Subject_Design.md)** |
 
-> Dependent variables: **Rapport score**, **Emotional Connectedness score** (scene-by-scene).**Credibility** (exit interview).
-> Qualitative outcome: **Credibility** (exit interview).
+> Dependent variables: **Rapport score**, **Emotional Connectedness score**, **Credibility** (scene-by-scene).
 
 ### 3. Apparatus & Materials  
 - **Hardware:** 
@@ -73,23 +72,20 @@ Identity continuity is manipulated between subjects.
 - **Questionnaires:**  
   - **Rapport Scale**  [HARQ (7-point Likert)](Questionnaire/HARQ.md)
   - **Connectedness:** [ASAQ(7-point Likert)](Questionnaire/ASAQ.md)
+  - **Credibility:**  [Credibility Scale](Questionnaire/Credibility.md)
   - **Manipulation-check:** “Were the agents the same individual?” 
 
 ### 4. Procedure  
 1. **Briefing & Consent** → demographic survey.  
 2. Participants experience **all four demos**   
-3. **After each demo** → Immediate Likert survey (Rapport + Connectedness).  
+3. **After each demo** → Immediate Likert survey (Rapport + Connectedness + Credibility).  
 4. **Post block:**  
-   - Manipulation-check item  
-   - **Exit interview** (audio-recorded, 10 min): credibility, moments of high/low trust, impact of identity cues.  
+   - Manipulation-check item   
 5. **Debrief & compensation**.
 
 ### 5. Data Analysis  
-- **Quantitative:** 2 (Identity) × 4 (Scene) UnPaired t-test on Rapport & Connectedness if interaction significant, otherwise using Mann-Whitney test.  
+- **Quantitative:** UnPaired t-test on Rapport & Connectedness if interaction significant, otherwise using Mann-Whitney test.  
   - Post-hoc pairwise (Bonferroni) if interaction significant.  
-- **Qualitative:**
-- **Manipulation-check:**
-
 
 
 
@@ -102,16 +98,15 @@ Identity continuity is manipulated between subjects.
 flowchart TD
     A["Briefing / Consent<br/>Discontinuous group"]
     S1["Scene 1<br/>Escape Room<br/>Agent A"]
-    R1["Rapport Survey #1<br/>Connectedness Survey"]
+    R1["Rapport Survey <br/>Connectedness Survey<br/>Credibility Survey #1"]
     S2["Scene 2<br/>World Beyond<br/>Agent B"]
-    R2["Rapport Survey #2<br/>Connectedness Survey"]
+    R2["Rapport Survey <br/>Connectedness Survey<br/>Credibility Survey #2"]
     S3["Scene 3<br/>Phanto<br/>Agent C"]
-    R3["Rapport Survey #3<br/>Connectedness Survey"]
+    R3["Rapport Survey <br/>Connectedness Survey<br/>Credibility Survey #3"]
     S4["Scene 4<br/>Whisperer<br/>Agent D"]
-    R4["Rapport Survey #4<br/>Connectedness Survey"]
-    P["Trust Interview"]
+    R4["Rapport Survey <br/>Connectedness Survey<br/>Credibility Survey #4"]
     D["Debrief"]
-    A --> S1 --> R1 --> S2 --> R2 --> S3 --> R3 --> S4 --> R4 --> P --> D
+    A --> S1 --> R1 --> S2 --> R2 --> S3 --> R3 --> S4 --> R4 --> D
 
 ```
 
@@ -121,15 +116,14 @@ flowchart TD
 flowchart TD
     A["Briefing / Consent<br/>Continuous group"]
     S1["Scene 1<br/>Escape Room"]
-    R1["Rapport Survey #1<br/>Connectedness Survey"]
+    R1["Rapport Survey <br/>Connectedness Survey<br/>Credibility Survey #1"]
     S2["Scene 2<br/>World Beyond"]
-    R2["Rapport Survey #2<br/>Connectedness Survey"]
+    R2["Rapport Survey <br/>Connectedness Survey<br/>Credibility Survey #2"]
     S3["Scene 3<br/>Phanto"]
-    R3["Rapport Survey #3<br/>Connectedness Survey"]
+    R3["Rapport Survey <br/>Connectedness Survey<br/>Credibility Survey #3"]
     S4["Scene 4<br/>Whisperer"]
-    R4["Rapport Survey #4<br/>Connectedness Survey"]
-    P["Post block<br/>Trust Interview"]
+    R4["Rapport Survey <br/>Connectedness Survey<br/>Credibility Survey #4"]
     D["Debrief"]
-    A --> S1 --> R1 --> S2 --> R2 --> S3 --> R3 --> S4 --> R4 --> P --> D
+    A --> S1 --> R1 --> S2 --> R2 --> S3 --> R3 --> S4 --> R4 --> D
 ```
 
