@@ -41,7 +41,7 @@ Identity continuity is manipulated between subjects.
 | **[Rapport](Questionnaire/Definition.md)** | **Quantitative** | [HARQ (7-point Likert)](Questionnaire/HARQ.md) | **Immediately after each scene** (4 times) |
 | **[Connectedness](Questionnaire/Definition.md)** | **Quantitative** | [ASAQ(7-point Likert)](Questionnaire/ASAQ.md) | **Immediately after each scene** (4 times) |
 | **Credibility** | **Qualitative** | [Credibility Scale](Questionnaire/Credibility.md) | **mmediately after each scene** (4 times) |
-| **Manipulation Check** | Single Likert item—“Were the agents the same individual?” | 7-point Likert | After final scene (Only C1) |
+| **Manipulation Check** | “Were the agents the same individual?” | Yes/No | After final scene (Only C1) |
 
 ---
 
@@ -71,9 +71,9 @@ Identity continuity is manipulated between subjects.
   - *Continuous* group: same name, same voice, same keyfeatures.  
   - *Discontinuous* group: unique names, voices, colors (A/B/C/D) per demo.  
 - **Questionnaires:**  
-  - **Rapport Scale**  HARQ (7-point Likert)
-  - **Connectedness:** 
-  - **Manipulation-check:** “These assistants felt like the same person” (1–7 Likert)
+  - **Rapport Scale**  [HARQ (7-point Likert)](Questionnaire/HARQ.md)
+  - **Connectedness:** [ASAQ(7-point Likert)](Questionnaire/ASAQ.md)
+  - **Manipulation-check:** “Were the agents the same individual?” 
 
 ### 4. Procedure  
 1. **Briefing & Consent** → demographic survey.  
