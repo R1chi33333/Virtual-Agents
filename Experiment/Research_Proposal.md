@@ -19,8 +19,8 @@ In human–computer interaction, an agent’s identity cues (name, voice, color 
 
 ### 2.3 Rapport, Emotional Connectedness and Credibility. 
 - Rapport refers to the immediate quality of interaction: the feeling that communication is smooth and coordinated. Tickle-Degnen and Rosenthal define rapport as mutual attentiveness, positivity, and coordination[^24]. In VR, high rapport might manifest as users feeling “in sync” with an agent’s dialogue or actions.
-- Emotional connectedness is a longer-term bond: how much the agent feels like part of the user’s social circle. Aron et al. note that closeness “exists when a person’s representation of self includes the other”. In our context, connectedness reflects how much a user feels allied with the agent across scenes. We expect that rapport can fluctuate scene-to-scene, while connectedness accumulates over the experiment. High rapport often precedes trust, whereas high connectedness coexists with deep trust.
-- Credibility captures whether users regard the agent as a reliable and competent partner capable of performing the task at hand. McGloin et al. operationalise credibility with bipolar adjectives such as unreliable–reliable, incompetent–competent and untrustworthy–trustworthy applied to an avatar or message source. More broadly, credibility is “a set of source characteristics that increase confidence and trust in the message”. In work on explainable AI, Hoffman et al. incorporate similar notions—confidence, predictability, reliability and believability—into the XAI Trust Scale, framing credibility as the user’s judgment that the system will act correctly and consistently.
+- Emotional connectedness is a longer-term bond: how much the agent feels like part of the user’s social circle. Aron et al. note that closeness “exists when a person’s representation of self includes the other”[^25]. In our context, connectedness reflects how much a user feels allied with the agent across scenes. We expect that rapport can fluctuate scene-to-scene, while connectedness accumulates over the experiment. High rapport often precedes trust, whereas high connectedness coexists with deep trust.
+- Credibility captures whether users regard the agent as a reliable and competent partner capable of performing the task at hand. McGloin et al. operationalise credibility with bipolar adjectives such as unreliable–reliable, incompetent–competent and untrustworthy–trustworthy applied to an avatar or message source[^26]. More broadly, credibility is “a set of source characteristics that increase confidence and trust in the message”. In work on explainable AI, Hoffman et al. incorporate similar notions—confidence, predictability, reliability and believability—into the XAI Trust Scale, framing credibility as the user’s judgment that the system will act correctly and consistently[^27].
 
 
 Together, these three constructs give a layered view of the user–agent relationship: rapport captures the felt smoothness of each encounter, emotional connectedness reflects the accumulating social bond, and credibility gauges whether the agent is considered competent and dependable enough to achieve the user’s goals.
@@ -148,8 +148,15 @@ Finally, this study approach contributes to research methodology in VR as well. 
 
 [^22]: Sun Joo (Grace) Ahn, Joshua Bostick, Elise Ogle, Kristine L. Nowak, Kara T. McGillicuddy, Jeremy N. Bailenson, Experiencing Nature: Embodying Animals in Immersive Virtual Environments Increases Inclusion of Nature in Self and Involvement with Nature, Journal of Computer-Mediated Communication, Volume 21, Issue 6, 1 November 2016, Pages 399–419, doi: 10.1111/jcc4.12173
 
-[^23]: Miller L, Kraus J, Babel F, Baumann M (2021). More Than a Feeling-Interrelation of Trust Layers in Human-Robot Interaction and the Role of User Dispositions and State Anxiety. Front Psychol. doi: 10.3389/fpsyg.2021.592711. PMID: 33912098; PMCID: PMC8074795.
+[^23]: Miller L, Kraus J, Babel F, Baumann M. (2021). More Than a Feeling-Interrelation of Trust Layers in Human-Robot Interaction and the Role of User Dispositions and State Anxiety. Front Psychol. doi: 10.3389/fpsyg.2021.592711. PMID: 33912098; PMCID: PMC8074795.
 
-[^24]: L. Tickle-Degnen and R. Rosenthal (1990). The Nature of Rapport and Its Nonverbal Correlates. Psychological Inquiry 1(4):285-293. doi: 10.1207/s15327965pli0104_1
+[^24]: L. Tickle-Degnen and R. Rosenthal. (1990). The Nature of Rapport and Its Nonverbal Correlates. Psychological Inquiry 1(4):285-293. doi: 10.1207/s15327965pli0104_1
+
+[^25]: Aron, A., Aron, E. N., Tudor, M., & Nelson, G. (1991). Close relationships as including other in the self. Journal of Personality and Social Psychology, 60(2), 241–253. doi: 10.1037/0022-3514.60.2.241
+
+[^26]: R. McGloin., K. L. Nowak. and J. H. Watt. (2014). Avatars and Expectations: Influencing Perceptions of Trustworthiness in an Online Consumer Setting. PsychNology Journal 12(1-2).
+
+[^27]: R. R. Hoffman., S. T. Mueller., G. Klein and J. Litman. (2023) Measures for explainable AI:Explanation goodness, user satisfaction, mental models, curiosity, trust, and human-AI performance. Sec. Theoretical Computer Science. doi: 10.3389/fcomp.2023.1096257
+
 
 
