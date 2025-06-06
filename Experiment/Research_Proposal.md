@@ -27,7 +27,7 @@ Together, these three constructs give a layered view of the user–agent relatio
 
 ### 2.4 Literature Synthesis and Research Gap 
 
-Prior HCI studies have explored how different agent embodiments and behaviors affect user experience. For example, research on companion agents (both human and animal) suggests that social presence and realism enhance engagement[^22]. However, most VR agent studies use a single avatar type. Studies on nonverbal communication in VR show that consistent cues (like voice and style) help users follow an agent’s intentions. In related work, an “artificial social agent questionnaire” (ASAQ) was developed to measure users’ sense of social bond with an agent. These ASAQ constructs (e.g. willingness to interact, perceived social presence) inform our connectedness measure. Our review indicates a gap: few studies have manipulated agent identity continuity explicitly. We aim to fill this gap by comparing identity-continuous vs discontinuous conditions, leveraging a mixed-agent VR setting. This will extend theory on identity design: if our results support continuity, it implies that users form a single “virtual persona” that spans forms, enriching theories of multi-agent interaction in VR.
+Prior HCI studies have explored how different agent embodiments and behaviors affect user experience. For example, research on companion agents (both human and animal) suggests that social presence and realism enhance engagement[^22]. However, most VR agent studies use a single avatar type. Studies on nonverbal communication in VR show that consistent cues (like voice and style) help users follow an agent’s intentions. In related work, an “artificial social agent questionnaire” (ASAQ) was developed to measure users’ sense of social bond with an agent[^28]. These ASAQ constructs (e.g. willingness to interact, perceived social presence) inform our connectedness measure. Our review indicates a gap: few studies have manipulated agent identity continuity explicitly. We aim to fill this gap by comparing identity-continuous vs discontinuous conditions, leveraging a mixed-agent VR setting. This will extend theory on identity design: if our results support continuity, it implies that users form a single “virtual persona” that spans forms, enriching theories of multi-agent interaction in VR.
 
 
 
@@ -157,6 +157,9 @@ Finally, this study approach contributes to research methodology in VR as well. 
 [^26]: R. McGloin., K. L. Nowak. and J. H. Watt. (2014). Avatars and Expectations: Influencing Perceptions of Trustworthiness in an Online Consumer Setting. PsychNology Journal 12(1-2).
 
 [^27]: R. R. Hoffman., S. T. Mueller., G. Klein and J. Litman. (2023) Measures for explainable AI:Explanation goodness, user satisfaction, mental models, curiosity, trust, and human-AI performance. Sec. Theoretical Computer Science. doi: 10.3389/fcomp.2023.1096257
+
+[^28]: S. Fitrianie, M. Bruijnes, A. Abdulrahman, W. Brinkman, The Artificial Social Agent Questionnaire (ASAQ) — Development and evaluation of a validated instrument for capturing human interaction experiences with artificial social agents, International Journal of Human-Computer Studies, Volume 199, 2025, 103482, ISSN 1071-5819, doi: 10.1016/j.ijhcs.2025.103482
+
 
 
 
