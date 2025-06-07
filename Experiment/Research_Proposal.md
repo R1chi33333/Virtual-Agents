@@ -129,12 +129,12 @@ Finally, this study approach contributes to research methodology in VR as well. 
 
 [^13]: K. Wagner and H. Schramm-Klein. (2019).  Alexa, Are You Human? Investigating Anthropomorphism of Digital Voice Assistants – A Qualitative Approach. ICIS 2019 Proceedings. 7. https://aisel.aisnet.org/icis2019/human_computer_interact/human_computer_interact/7
 
-[^14]: Kim, K., de Melo, C. M., Norouzi, N., Bruder, G., and Welch, G. F. (2020). “Reducing task load with an embodied intelligent virtual assistant for improved performance in collaborative decision making,” in 2020 IEEE Conference on Virtual Reality and 3D User Interfaces (VR), Atlanta, Georgia, America, March 22–26, 2020 (IEEE), 529–538.
+[^14]: Kim, K., de Melo, C. M., Norouzi, N., Bruder, G., and Welch, G. F. (2020). Reducing task load with an embodied intelligent virtual assistant for improved performance in collaborative decision making, in 2020 IEEE Conference on Virtual Reality and 3D User Interfaces (VR), Atlanta, Georgia, America, March 22–26, 2020 (IEEE), 529–538. doi: 10.1109/VR46266.2020.00074
 
 [^15]: de Melo, C. M., Kim, K., Norouzi, N., Bruder, G., and Welch, G. (2020). Reducing cognitive load and improving warfighter problem solving with intelligent virtual assistants. Front. Psychol. 11, 554706. doi:10.3389/fpsyg.2020.554706
 
 
-[^17]: Griol, D., Sanchis, A., Molina, J. M., and Callejas, Z. (2019). Developing enhanced conversa  tional agents for social virtual worlds. Neurocomputing 354, 27–40. doi:10.1016/j.neucom.2018.09.099
+[^17]: Griol, D., Sanchis, A., Molina, J. M., and Callejas, Z. (2019). Developing enhanced conversational agents for social virtual worlds. Neurocomputing 354, 27–40. doi:10.1016/j.neucom.2018.09.099
 
 [^18]: Z. Momand. J. H. Chan and P. Mongkolnam. (2023). Immersive Technologies in Virtual Companions: A Systematic Literature Review. Human-Computer Interaction (cs.HC). doi: 10.48550/arXiv.2309.01214
 
