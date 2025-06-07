@@ -42,22 +42,8 @@ These are directional hypotheses based on the assumption that continuity fosters
 
 
 ## 4. Research Design
-### 4.1 Methodology
+### 4.1 Experimental Conditions
 
-
-To effectively assess the influence of identity continuity on rapport, emotional connectedness, and agent credibility, this study will employ a between-subjects experimental design. Participants will be randomly assigned to one of two experimental conditions:
-- **C1: Identity-Discontinuous Condition: Participants interact with agents that exhibit distinct identity cues in each of the four VR scenarios.**
-- **C2: Identity-Continuous Condition: Participants interact with virtual agents maintaining consistent identity cues across all four VR scenarios (Embodied Human, Animal Companion, Object-Based AI, Voice-Only).**
-
-This between-subject approach was selected based on careful consideration of its advantages and limitations. Specifically, this design eliminates potential carryover or order effects associated with repeated measures. Participants engage in only four VR interactions, significantly reducing fatigue and the risk of VR-induced motion sickness compared to a within-subject design requiring eight interactions. Additionally, a simpler experimental setup reduces logistical complexity and avoids participant hypothesis guessing about experimental conditions. Furthermore, demographic data (age, gender, VR experience) will be collected to verify group equivalence, thus ensuring comparability between the two experimental conditions.All other aspects, such as VR scene content, duration, complexity, and interaction methods, will remain standardized across both conditions to isolate identity continuity as the independent variable influencing user rapport, emotional connectedness and credibility (quantitatively measured via validated scales).
-
-### 4.2 Participants
-- **Sample size**
-- **Recruitment**
-- **Assignment**
-
-
-### 4.3 Experimental Conditions
 
 We have two Identity Continuity conditions：
 
@@ -76,6 +62,17 @@ We have two Identity Continuity conditions：
 
 - **Whisperer — Voice-Only Agent**  
   No avatar appears. An unseen “translator” whispers riddles and clues. You reply aloud; the environment changes according to recognized intents. The agent exists purely as a disembodied voice that mediates the interaction.
+
+### 4.2 Participants
+- **Sample size**
+- **Recruitment**
+- **Assignment**
+
+
+### 4.3 Methodology
+To effectively assess the influence of identity continuity on rapport, emotional connectedness, and agent credibility, this study will employ a between-subjects experimental design.
+
+This between-subject approach was selected based on careful consideration of its advantages and limitations. Specifically, this design eliminates potential carryover or order effects associated with repeated measures. Participants engage in only four VR interactions, significantly reducing fatigue and the risk of VR-induced motion sickness compared to a within-subject design requiring eight interactions. Additionally, a simpler experimental setup reduces logistical complexity and avoids participant hypothesis guessing about experimental conditions. Furthermore, demographic data (age, gender, VR experience) will be collected to verify group equivalence, thus ensuring comparability between the two experimental conditions.All other aspects, such as VR scene content, duration, complexity, and interaction methods, will remain standardized across both conditions to isolate identity continuity as the independent variable influencing user rapport, emotional connectedness and credibility (quantitatively measured via validated scales).
 
 Each participant experiences all four scenes. In the C2 (identity-continuous condition), the same agent appears in different guises (human, animal, object, voice) with consistent cues. In the C1 (identity-discontinuous condition), the agent key features changes each scene indicating a different persona. The order of scenes is fixed (1→4) for all participants to maintain flow.
 
