@@ -115,7 +115,7 @@ Finally, this study approach contributes to research methodology in VR as well. 
 
 [^6]: Aron, A., Aron, E. N., Tudor, M., & Nelson, G. (1991). Close relationships as including other in the self. Journal of Personality and Social Psychology, 60(2), 241–253. doi: 10.1037/0022-3514.60.2.241
 
-[^7]: R.Poievt (2023),  Virtual Agent's perceived intelligence and believability in video games: Exploring the relation between design factors and players' expectations.
+[^7]: Pan, X. and Hamilton, A.F.d.C. (2018), Why and how to use virtual reality to study human social interaction: The challenges of exploring a new research landscape. Br J Psychol, 109: 395-417. doi: 10.1111/bjop.12290
 
 [^8]: B. Lugrin. (2021). Introduction to Socially Interactice Agents. The Handbook on Socially Interactive Agents: 20 years of Research on Embodied Conversational Agents, Intelligent Virtual Agents, and Social Robotics Volume 1: Methods, Behavior, Cognition. doi: 10.1145/3477322.34773
 
