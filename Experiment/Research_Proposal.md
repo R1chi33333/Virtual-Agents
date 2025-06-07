@@ -27,7 +27,7 @@ Together, these three constructs give a layered view of the user–agent relatio
 
 ### 2.4 Literature Synthesis and Research Gap 
 
-Prior HCI studies have explored how different agent embodiments and behaviors affect user experience[^3] [^12] [^9] [^33]. For example, research on companion agents suggests that social presence and realism enhance engagement[^33]. However, most VR agent studies use a single avatar type. Studies on nonverbal communication in VR show that consistent cues (like voice and style) help users follow an agent’s intentions. In related work, an “artificial social agent questionnaire” (ASAQ) was developed to measure users’ sense of social bond with an agent[^28]. These ASAQ constructs (e.g. willingness to interact, perceived social presence) inform our connectedness measure. We aim to fill this gap by comparing identity-continuous vs discontinuous conditions, leveraging a mixed-agent VR setting. This will extend theory on identity design: if our results support continuity, it implies that users form a single “virtual persona” that spans forms, enriching theories of multi-agent interaction in VR.
+Prior HCI studies have explored how different agent embodiments and behaviors affect user experience[^3] [^12] [^9] [^33]. For example, research on companion agents suggests that social presence and realism enhance engagement[^33]. However, most VR agent studies use a single avatar type. Studies on nonverbal communication in VR show that consistent cues (like colour scheme, markings on the body, or particular features such as a specific style of eyes) help users follow an agent’s identity[^34]. In related work, an “artificial social agent questionnaire” (ASAQ) was developed to measure users’ sense of social bond with an agent[^28]. These ASAQ constructs (e.g. willingness to interact, perceived social presence) inform our connectedness measure. We aim to fill this gap by comparing identity-continuous vs discontinuous conditions, leveraging a mixed-agent VR setting. This will extend theory on identity design: if our results support continuity, it implies that users form a single “virtual persona” that spans forms, enriching theories of multi-agent interaction in VR.
 
 
 
@@ -167,5 +167,7 @@ Finally, this study approach contributes to research methodology in VR as well. 
 [^32]: Timothy W. Bickmore and Rosalind W. Picard. 2005. Establishing and maintaining long-term human-computer relationships. ACM Trans. Comput.-Hum. Interact. 12, 2 (June 2005), 293–327. doi: 10.1145/1067860.1067867
 
 [^33]: Bailenson, J. N., Swinth, K., Hoyt, C., Persky, S., Dimov, A., & Blascovich, J. (2005). The Independent and Interactive Effects of Embodied-Agent Appearance and Behavior on Self-Report, Cognitive, and Behavioral Markers of Copresence in Immersive Virtual Environments. Presence: Teleoperators and Virtual Environments, 14(4), 379–393. doi:10.1162/105474605774785235 
+
+[^34]: Martin, A., O’Hare, G.M.P., Duffy, B.R., Schön, B., Bradley, J.F. (2005). Maintaining the Identity of Dynamically Embodied Agents. In: Panayiotopoulos, T., Gratch, J., Aylett, R., Ballin, D., Olivier, P., Rist, T. (eds) Intelligent Virtual Agents. IVA 2005. Lecture Notes in Computer Science(), vol 3661. Springer, Berlin, Heidelberg. doi: 10.1007/11550617_38
 
 
