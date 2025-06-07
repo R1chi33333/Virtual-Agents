@@ -110,7 +110,7 @@ Finally, this study approach contributes to research methodology in VR as well. 
 
 [^4]: Catherine S. Oh, J. N. Bailenson, G. F. Welch. (2018). A Systematic Review of Social Presence: Definition, Antecedents, and Implications. Sec. Virtual Environments. Virtual Human Interaction Lab, Department of Coomunication, Standford University. doi: 10.3389/frobt.2018.00114  
 
-[^5]: T. Bickmore and R. Picard. (2005). Establishing and maintaining long-term humancomputer relationships. ACM Transactions on Computer-Human Interaction (TOCHI) 12, 2 (2005), 293–327. doi: 10.1145/1067860.106786
+[^5]: Tickle-Degnen, L., & Rosenthal, R. (1990). The Nature of Rapport and Its Nonverbal Correlates. Psychological Inquiry, 1(4), 285-293. doi: 10.1207/s15327965pli0104_1.
 
 [^6]: Aron, A., Aron, E. N., Tudor, M., & Nelson, G. (1991). Close relationships as including other in the self. Journal of Personality and Social Psychology, 60(2), 241–253. doi: 10.1037/0022-3514.60.2.241
 
