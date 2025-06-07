@@ -166,5 +166,6 @@ Finally, this study approach contributes to research methodology in VR as well. 
 
 [^32]: Timothy W. Bickmore and Rosalind W. Picard. 2005. Establishing and maintaining long-term human-computer relationships. ACM Trans. Comput.-Hum. Interact. 12, 2 (June 2005), 293–327. doi: 10.1145/1067860.1067867
 
+[^33]: Bailenson, J. N., Swinth, K., Hoyt, C., Persky, S., Dimov, A., & Blascovich, J. (2005). The Independent and Interactive Effects of Embodied-Agent Appearance and Behavior on Self-Report, Cognitive, and Behavioral Markers of Copresence in Immersive Virtual Environments. Presence: Teleoperators and Virtual Environments, 14(4), 379–393. doi:10.1162/105474605774785235 
 
 
