@@ -33,8 +33,6 @@ Prior HCI studies have explored how different agent embodiments and behaviors af
 
 ## 3. Research Questions and Hypotheses
 
-### 1.1 Experimental Conditions
-
 
 We have two Identity Continuity conditions：
 
@@ -53,8 +51,6 @@ We have two Identity Continuity conditions：
 
 - **Whisperer — Voice-Only Agent**  
   No avatar appears. An unseen “translator” whispers riddles and clues. You reply aloud; the environment changes according to recognized intents. The agent exists purely as a disembodied voice that mediates the interaction.
-
-
 
 
 Based on the above, our primary Research Question is: Does maintaining **identity continuity** in virtual agents with changing appearances help users maintain or **strengthen** their sense of **rapport**, **emotional connectedness** and **credibility** in **VR GAMES**? We propose two main hypotheses:
