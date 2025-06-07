@@ -81,7 +81,7 @@ Each participant experiences all four scenes. In the C2 (identity-continuous con
 ### 4.3 Data Collection
 
 After each scene interaction, participants will complete two questionnaires on a computer:
-- Rapport: Measured via the Human–Agent Rapport Questionnaire (HARQ) on a 7-point Likert scale. The HARQ includes items about how natural and positive the interaction felt.
+- Rapport: Measured via the Human–Agent Rapport Questionnaire (HARQ) on a 7-point Likert scale. The HARQ includes items about how natural and positive the interaction felt.[^29]
 - Emotional Connectedness: Measured via the Artificial Social Agent Questionnaire (ASAQ) adapted for connectedness, also on 7-point scales.The ASAQ asks about users’ perceived closeness and willingness to interact with the agent.[^28]
 - Credibility: Measured via the Trust Scale adapted for credibility, 5-point scales.[^27] 
 
@@ -158,6 +158,10 @@ Finally, this study approach contributes to research methodology in VR as well. 
 [^27]: R. R. Hoffman., S. T. Mueller., G. Klein and J. Litman. (2023) Measures for explainable AI:Explanation goodness, user satisfaction, mental models, curiosity, trust, and human-AI performance. Sec. Theoretical Computer Science. doi: 10.3389/fcomp.2023.1096257
 
 [^28]: S. Fitrianie, M. Bruijnes, A. Abdulrahman, W. Brinkman, The Artificial Social Agent Questionnaire (ASAQ) — Development and evaluation of a validated instrument for capturing human interaction experiences with artificial social agents, International Journal of Human-Computer Studies, Volume 199, 2025, 103482, ISSN 1071-5819, doi: 10.1016/j.ijhcs.2025.103482
+
+[^29]: A. Cerekovic, O. Aran and D. Gatica-Perez, "Rapport with Virtual Agents: What Do Human Social Cues and Personality Explain?," in IEEE Transactions on Affective Computing, vol. 8, no. 3, pp. 382-395, 1 July-Sept. 2017, doi: 10.1109/TAFFC.2016.2545650
+
+
 
 
 
