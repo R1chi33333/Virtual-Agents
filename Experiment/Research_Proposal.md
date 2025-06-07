@@ -53,7 +53,7 @@ We have two Identity Continuity conditions：
   No avatar appears. An unseen “translator” whispers riddles and clues. You reply aloud; the environment changes according to recognized intents. The agent exists purely as a disembodied voice that mediates the interaction.
 
 
-Based on the above, our primary Research Question is: Does maintaining **identity continuity** in virtual agents with changing appearances help users maintain or **strengthen** their sense of **rapport**, **emotional connectedness** and **credibility** in **VR GAMES**? We propose two main hypotheses:
+Based on the above, our primary Research Question is: Does maintaining **identity continuity** in virtual agents with changing appearances help users maintain or **strengthen** their sense of **rapport**, **emotional connectedness** and **credibility** in **VR GAMES**? We propose three main hypotheses:
 - **H1 (Rapport): Participants in the identity-continuous condition will report higher rapport scores than in the identity-discontinuous condition.**
 - **H2 (Emotional Connectedness): Participants in the identity-continuous condition will report higher emotional connectedness scores than in the identity-discontinuous condition.**
 - **H3 (Credibility): Participants in the identity-continuous condition will report higher credibility scores than in the identity-discontinuous condition.**
