@@ -33,16 +33,7 @@ Prior HCI studies have explored how different agent embodiments and behaviors af
 
 ## 3. Research Questions and Hypotheses
 
-Based on the above, our primary Research Question is: Does maintaining **identity continuity** in virtual agents with changing appearances help users maintain or **strengthen** their sense of **rapport**, **emotional connectedness** and **credibility** in **VR GAMES**? We propose two main hypotheses:
-- **H1 (Rapport): Participants in the identity-continuous condition will report higher rapport scores than in the identity-discontinuous condition.**
-- **H2 (Emotional Connectedness): Participants in the identity-continuous condition will report higher emotional connectedness scores than in the identity-discontinuous condition.**
-- **H3 (Credibility): Participants in the identity-continuous condition will report higher credibility scores than in the identity-discontinuous condition.**
-
-These are directional hypotheses based on the assumption that continuity fosters social bond.
-
-
-## 4. Research Methodology
-### 4.1 Experimental Conditions
+### 1.1 Experimental Conditions
 
 
 We have two Identity Continuity conditions：
@@ -63,20 +54,35 @@ We have two Identity Continuity conditions：
 - **Whisperer — Voice-Only Agent**  
   No avatar appears. An unseen “translator” whispers riddles and clues. You reply aloud; the environment changes according to recognized intents. The agent exists purely as a disembodied voice that mediates the interaction.
 
-### 4.2 Participants
-- **Sample size**
-- **Recruitment**
-- **Assignment**
 
 
-### 4.3 Research design
+
+Based on the above, our primary Research Question is: Does maintaining **identity continuity** in virtual agents with changing appearances help users maintain or **strengthen** their sense of **rapport**, **emotional connectedness** and **credibility** in **VR GAMES**? We propose two main hypotheses:
+- **H1 (Rapport): Participants in the identity-continuous condition will report higher rapport scores than in the identity-discontinuous condition.**
+- **H2 (Emotional Connectedness): Participants in the identity-continuous condition will report higher emotional connectedness scores than in the identity-discontinuous condition.**
+- **H3 (Credibility): Participants in the identity-continuous condition will report higher credibility scores than in the identity-discontinuous condition.**
+
+These are directional hypotheses based on the assumption that continuity fosters social bond.
+
+
+## 4. Research Methodology
+
+
+### 4.1 Research design
 To effectively assess the influence of identity continuity on rapport, emotional connectedness, and agent credibility, this study will employ a between-subjects experimental design.
 
 This between-subject approach was selected based on careful consideration of its advantages and limitations. Specifically, this design eliminates potential carryover or order effects associated with repeated measures. Participants engage in only four VR interactions, significantly reducing fatigue and the risk of VR-induced motion sickness compared to a within-subject design requiring eight interactions. Additionally, a simpler experimental setup reduces logistical complexity and avoids participant hypothesis guessing about experimental conditions. Furthermore, demographic data (age, gender, VR experience) will be collected to verify group equivalence, thus ensuring comparability between the two experimental conditions.All other aspects, such as VR scene content, duration, complexity, and interaction methods, will remain standardized across both conditions to isolate identity continuity as the independent variable influencing user rapport, emotional connectedness and credibility (quantitatively measured via validated scales).
 
 Each participant experiences all four scenes. In the C2 (identity-continuous condition), the same agent appears in different guises (human, animal, object, voice) with consistent cues. In the C1 (identity-discontinuous condition), the agent key features changes each scene indicating a different persona. The order of scenes is fixed (1→4) for all participants to maintain flow.
 
-### 4.4 Data Collection
+### 4.2 Participants
+- **Sample size**
+- **Recruitment**
+- **Assignment**
+
+
+
+### 4.3 Data Collection
 
 After each scene interaction, participants will complete two questionnaires on a computer:
 - Rapport: Measured via the Human–Agent Rapport Questionnaire (HARQ) on a 7-point Likert scale. The HARQ includes items about how natural and positive the interaction felt.
@@ -85,7 +91,7 @@ After each scene interaction, participants will complete two questionnaires on a
 
 These instruments have been previously validated. All measures are administered immediately after each of the four scenes.
 
-### 4.5 Data Analysis
+### 4.4 Data Analysis
 - **Quantitative Analysis**:
 Given the between-subjects design, we will analyze the quantitative data (rapport, emotional connectedness and credibility) using Unpaired t-tests (or Mann-Whitney U tests if normality assumptions are violated). Specifically, we will compare mean scores for rapport, emotional connectedness and credibility between the Identity-Continuous and Identity-Discontinuous conditions. Each participant’s scores will be averaged across the four VR agent forms to yield a composite measure per participant. Based on our hypotheses, we anticipate significantly higher rapport, emotional connectedness and credibility scores in the Identity-Continuous condition compared to the Identity-Discontinuous condition.
 
