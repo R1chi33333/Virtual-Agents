@@ -170,5 +170,5 @@ Finally, this study approach contributes to research methodology in VR as well. 
 
 [^34]: Martin, A., O’Hare, G.M.P., Duffy, B.R., Schön, B., Bradley, J.F. (2005). Maintaining the Identity of Dynamically Embodied Agents. In: Panayiotopoulos, T., Gratch, J., Aylett, R., Ballin, D., Olivier, P., Rist, T. (eds) Intelligent Virtual Agents. IVA 2005. Lecture Notes in Computer Science(), vol 3661. Springer, Berlin, Heidelberg. doi: 10.1007/11550617_38
 
-[^35]: Miller L, Kraus J, Babel F, Baumann M. More Than a Feeling-Interrelation of Trust Layers in Human-Robot Interaction and the Role of User Dispositions and State Anxiety. Front Psychol. 2021 Apr 12;12:592711. doi: 10.3389/fpsyg.2021.592711.
+[^35]: Moradinezhad, R., Solovey, E.T. Investigating Trust in Interaction with Inconsistent Embodied Virtual Agents. Int J of Soc Robotics 13, 2103–2118 (2021). doi: 10.1007/s12369-021-00747-z
 
