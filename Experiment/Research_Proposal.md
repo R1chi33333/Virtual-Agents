@@ -163,7 +163,7 @@ Finally, this study approach contributes to research methodology in VR as well. 
 
 [^30]: Greenwald, A. G. (1976). Within-subjects designs: To use or not to use? Psychological Bulletin, 83(2), 314–320. doi: 10.1037/0033-2909.83.2.314
 
-[^31]：G. Charness, U. Gneezy, M. A. Kuhn, Experimental methods: Between-subject and within-subject design, Journal of Economic Behavior & Organization, Volume 81, Issue 1, 2012, doi: 10.1016/j.jebo.2011.08.009
+[^31]: G. Charness, U. Gneezy, M. A. Kuhn, Experimental methods: Between-subject and within-subject design, Journal of Economic Behavior & Organization, Volume 81, Issue 1, 2012, doi: 10.1016/j.jebo.2011.08.009
 
 
 
