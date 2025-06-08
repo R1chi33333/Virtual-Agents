@@ -72,9 +72,8 @@ This between-subject approach was selected based on careful consideration of its
 Each participant experiences all four scenes. In the C2 (identity-continuous condition), the same agent appears in different guises (human, animal, object, voice) with consistent cues. In the C1 (identity-discontinuous condition), the agent key features changes each scene indicating a different persona. The order of scenes is fixed (1→4) for all participants to maintain flow.
 
 ### 4.2 Participants
-- **Sample size**
-- **Recruitment**
-- **Assignment**
+
+Twenty volunteers were drawn from the HIT Lab NZ panel and block-randomised by gender into the Identity-Continuous and Identity-Discontinuous conditions (10 participants each, 5 male and 5 female per group). Preliminary screening ensured that the two groups were age-matched (mean age difference < 2 years). All participants were fluent in English, and reported no history of severe cybersickness or neurological disorders.
 
 
 
