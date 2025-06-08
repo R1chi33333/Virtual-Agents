@@ -79,7 +79,7 @@ Twenty volunteers were drawn from the HIT Lab NZ panel and block-randomised by g
 
 ### 4.3 Data Collection
 
-After each scene interaction, participants will complete two questionnaires on a computer:
+After each scene interaction, participants will complete three questionnaires on a computer:
 - Rapport: Measured via the Human–Agent Rapport Questionnaire (HARQ) on a 7-point Likert scale. The HARQ includes items about how natural and positive the interaction felt.[^29]
 - Emotional Connectedness: Measured via the Artificial Social Agent Questionnaire (ASAQ) adapted for connectedness, also on 7-point scales.The ASAQ asks about users’ perceived closeness and willingness to interact with the agent.[^28]
 - Credibility: Measured via the Trust Scale adapted for credibility, 5-point scales.[^27] 
