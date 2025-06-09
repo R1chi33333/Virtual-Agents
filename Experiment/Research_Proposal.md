@@ -33,12 +33,6 @@ Prior HCI studies have explored how different agent embodiments and behaviors af
 
 ## 3. Research Questions and Hypotheses
 
-
-We have two Identity Continuity conditions：
-
-- **C1: Identity-Discontinuous Condition: Participants interact with agents that exhibit distinct identity cues in each of the four VR scenarios.**
-- **C2: Identity-Continuous Condition: Participants interact with virtual agents maintaining consistent identity cues across all four VR scenarios (Embodied Agent, Animal Companion, Object-Based Agent, Voice-Only Agent).**
-
 **Agent Forms (Scenes)**: Each scene has a different agent embodiment to test multi-form identity. The four scenes (used in both conditions) are:
 - **Escape Room — Embodied Agent**  
   You stand in a locked puzzle chamber. A humanoid companion shares the space, pointing out clues, offering verbal hints, and reacting to your progress. With VR hands you grab, rotate, and combine objects until the exit door unlocks.
@@ -51,6 +45,12 @@ We have two Identity Continuity conditions：
 
 - **Whisperer — Voice-Only Agent**  
   No agent appears. An unseen “translator” whispers riddles and clues. You reply aloud; the environment changes according to recognized intents. The agent exists purely as a disembodied voice that mediates the interaction.
+
+
+We have two Identity Continuity conditions：
+
+- **C1: Identity-Discontinuous Condition: Participants interact with agents that exhibit distinct identity cues in each of the four VR scenarios.**
+- **C2: Identity-Continuous Condition: Participants interact with virtual agents maintaining consistent identity cues across all four VR scenarios (Embodied Agent, Animal Companion, Object-Based Agent, Voice-Only Agent).**
 
 
 Based on the above, our primary Research Question is: Does maintaining **identity continuity** in virtual agents with changing appearances help users maintain or **strengthen** their sense of **rapport**, **emotional connectedness** and **credibility** in **VR GAMES**? We propose three main hypotheses:
