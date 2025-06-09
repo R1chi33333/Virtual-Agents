@@ -41,8 +41,7 @@ Prior HCI studies have explored how different agent embodiments and behaviors af
   A mixed-reality creature named Oppy follows you around your real room. Using a magic flashlight, you reveal glowing orbs behind virtual “portals,” toss them to Oppy, and guide it with simple gestures or voice commands as it responds playfully.
 
 - **Phanto — Object-Based Agent (Talking Gun)**  
-  Your sidekick is the Polterblast 3000—a sentient ghost-blaster that chats like a *Rick and Morty* gag where the gun has Morty’s personality. It warns of phantoms, and coaches your aim while you spray ectoplasmic goo and vacuum it back up.
-
+  Your sidekick is the Polterblast 3000—a sentient ghost-blaster that can warn of phantoms, and coaches your aim while you spray ectoplasmic goo and vacuum it back up (e.g., the talking Morty-voiced blaster in "High on Life"[^37]).
 - **Whisperer — Voice-Only Agent**  
   No agent appears. An unseen “translator” whispers riddles and clues. You reply aloud; the environment changes according to recognized intents. The agent exists purely as a disembodied voice that mediates the interaction.
 
@@ -201,3 +200,5 @@ Finally, this study approach contributes to research methodology in VR as well. 
 [^35]: Moradinezhad, R., Solovey, E.T. Investigating Trust in Interaction with Inconsistent Embodied Virtual Agents. Int J of Soc Robotics 13, 2103–2118 (2021). doi: 10.1007/s12369-021-00747-z
 
 [^36]: Zhong, Hangqin. (2023). Analysis on The Effectiveness of VR Exclusive Games on Customers' Purchase Intention. BCP Business & Management. 43. 96-102. doi: 10.54691/bcpbm.v43i.4627. 
+
+[^37]: Wood, Martin (June 29, 2022). "High on Life's Best Design Choice is Weapons That Talk". Game Rant. Valnet. Retrieved August 27, 2022.
