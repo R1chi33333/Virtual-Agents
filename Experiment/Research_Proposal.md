@@ -122,7 +122,7 @@ Finally, this study approach contributes to research methodology in VR as well. 
 | 5  | Writing Ethics Application                                      |        |
 | 6  | Ethics Application Submission                                   |        |
 | 7  | User Experiment and Data Collection                             |        |
-| 8  | Analysising the result                                          |        |
+| 8  | Analysing the Data                                              |        |
 | 9  | Sending Analysis of Results to Supervisors                      |        |
 | 10 | Writing Thesis Draft                                            |        |
 | 11 | Send Thesis Draft to Supervisors                                |        |
