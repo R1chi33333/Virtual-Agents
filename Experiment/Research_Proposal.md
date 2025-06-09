@@ -96,7 +96,7 @@ The system records every user and agent utterance with timestamps. After the ses
 - **Quantitative Analysis**:
 Given the between-subjects design, we will analyze the quantitative data (rapport, emotional connectedness and credibility) using Unpaired t-tests (or Mann-Whitney U tests if normality assumptions are violated). Specifically, we will compare mean scores for rapport, emotional connectedness and credibility between the Identity-Continuous and Identity-Discontinuous conditions. Each participant’s scores will be averaged across the four VR agent forms to yield a composite measure per participant. Based on our hypotheses, we anticipate significantly higher rapport, emotional connectedness and credibility scores in the Identity-Continuous condition compared to the Identity-Discontinuous condition.
 
-- **Qualitative Analysis**: Dialogue transcripts will be coded for credibility-related speech acts. It will label each user utterance as a Trust cue or a Doubt cue. Counts are exported to CSV. Trust Index = T/(T+D) for each participant, then averaged across scenes to yield a single behavioural credibility score.
+- **Qualitative Analysis**: Dialogue transcripts will be coded for credibility-related speech acts. Each user utterance will be labeled as a Trust cue or Doubt cue. We will analyze whether users’ trust differs between agent conditions based on these spoken cues.
 
 ## 5. Expected Results and Contributions
 
