@@ -107,7 +107,29 @@ Practically, the results will provide design guidelines for VR developers. If co
 Finally, this study approach contributes to research methodology in VR as well. By combining between-subject design, we offer a template for future multi-agent experiments. Overall, we expect to contribute both empirically and practically to the field of HCI and VR agent design.
 
 
-## 6. References
+## 6. TimeLine
+
+## Masters Thesis Schedule
+
+| #  | Activity                                                        | Time |
+|----|-----------------------------------------------------------------|------|
+| 1  | Proposal Submission                                             |      |
+| 2  | Literature Review                                               |      |
+| 3  | Developing and Testing a Prototype                              |      |
+| 4  | Designing an Experiment                                         |      |
+| 5  | Writing Ethics Application                                      |      |
+| 6  | Ethics Application Submission                                   |      |
+| 7  | User Experiment and Data Collection                             |      |
+| 8  | Analysis of Results                                             |      |
+| 9  | Sending Analysis of Results to Supervisors for Feedback         |      |
+| 10 | Writing Initial Thesis Draft                                    |      |
+| 11 | Send Thesis Draft to Supervisors for Feedback                   |      |
+| 12 | Making Amendments                                               |      |
+| 13 | Submit Thesis                                                   |      |
+
+
+
+## 7. References
 [^1]:  Fox, J., Ahn, S. J., Janssen, J. H., Yeykelis, L., Segovia, K. Y., and Bailenson, J. N. (2015). Avatars versus Agents: A Meta-Analysis Quantifying the Effect of Agency on Social Influence. Human-Computer Interact. 30, 401–432. doi:10.1080/07370024.2014.921494
 
 
