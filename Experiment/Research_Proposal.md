@@ -200,5 +200,4 @@ Finally, this study approach contributes to research methodology in VR as well. 
 
 [^35]: Moradinezhad, R., Solovey, E.T. Investigating Trust in Interaction with Inconsistent Embodied Virtual Agents. Int J of Soc Robotics 13, 2103–2118 (2021). doi: 10.1007/s12369-021-00747-z
 
-[^36]: Klöß S, Biene R, Bodtländer M, et al. Augmented und Virtual Reality[J]. Potenziale und praktische Anwendung immersiver Technologien. Unter Mitarbeit von Sabrina Fleming. Hg. v. Bitkom eV https://www. bitkom. org/sites/default/files/2021-04/210330_lf_ar_vr. pdf. Zugegriffen, 2021, 15.
-
+[^36]: Zhong, Hangqin. (2023). Analysis on The Effectiveness of VR Exclusive Games on Customers' Purchase Intention. BCP Business & Management. 43. 96-102. doi: 10.54691/bcpbm.v43i.4627. 
