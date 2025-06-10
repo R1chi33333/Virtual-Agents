@@ -87,7 +87,7 @@ After each scene interaction, participants will complete three questionnaires on
 - Emotional Connectedness: Measured via the Artificial Social Agent Questionnaire (ASAQ) adapted for connectedness, also on 7-point scales.The ASAQ asks about users’ perceived closeness and willingness to interact with the agent.[^28]
 - Credibility: Measured via the Trust Scale adapted for credibility, 5-point scales.[^27] 
 
-These instruments have been previously validated. All measures are administered immediately after each of the four scenes.
+These instruments have been previously validated. All measures are administered immediately after each of the four scenes. Although our main hypotheses are tested on HARQ, ASAQ, and Credibility scores averaged across all four scenes, the questionnaires are administered after each scene to allow for exploration of potential time effects (e.g., whether emotional connectedness changes over time) and form effects (e.g., whether certain agent forms receive higher rapport scores).
 #### 4.3.2 Dialogue log
 
 The system records every user and agent utterance with timestamps. After the session we will codes each user utterance: T = trust cue (e.g., "I believe you", "sounds right"), D = doubt cue (e.g., "are you sure?", "I don't think so.").
