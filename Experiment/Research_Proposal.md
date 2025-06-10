@@ -74,7 +74,7 @@ In the C2 (identity‐continuous) condition, the same agent reappears in differe
 
 ### 4.2 Participants
 
-Twenty volunteers were drawn from the HIT Lab NZ panel and block-randomised by gender into the Identity-Continuous and Identity-Discontinuous conditions (10 participants each, 5 male and 5 female per group). Preliminary screening ensured that the two groups were age-matched (mean age difference < 2 years). All participants were fluent in English, and reported no history of severe cybersickness or neurological disorders.
+We plan to recruit 20 volunteers from the HIT Lab NZ panel and block-randomise them by gender into two groups (10 per condition, with 5 males and 5 females each) for the Identity-Continuous and Identity-Discontinuous conditions. Prior to assignment, we will screen applicants to ensure that the mean ages of the two groups differ by less than 2 years. All participants will be required to be fluent in English and to have no history of severe cybersickness or neurological disorders.
 
 
 
